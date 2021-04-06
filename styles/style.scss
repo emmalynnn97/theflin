@@ -11,43 +11,44 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  Theflin
 */
-@import "/variables";
 
-@import "/typography";
+@import "./variables";
 
-@import "nav/nav";
-@import "nav/mobile";
+@import "./typography";
 
-@import "/buttons";
+@import "./nav/nav";
+@import "./nav/mobile";
 
-@import "sidebar/sidebar";
-@import "sidebar/mobile";
+@import "./buttons";
 
-@import "top/top";
-@import "top/mobile";
+@import "./sidebar/sidebar";
+@import "./sidebar/mobile";
 
-@import "floorplans/floorplans";
-@import "floorplans/mobile";
+@import "./top/top";
+@import "./top/mobile";
 
-@import "vision/vision";
-@import "vision/mobile";
+@import "./floorplans/floorplans";
+@import "./floorplans/mobile";
 
-@import "slider/slider";
+@import "./vision/vision";
+@import "./vision/mobile";
+
+@import "./slider/slider";
 @import "slider/mobile";
 
-@import "footer/footer";
-@import "footer/mobile";
+@import "./footer/footer";
+@import "./footer/mobile";
 
-@import "/schedule";
+@import "./schedule";
 
-@import "life/life";
-@import "life/mobile";
+@import "./life/life";
+@import "./life/mobile";
 
-@import "/map";
-@import "/blog";
-@import "gallery/gallery";
-@import "gallery/mobile";
-@import "/slideable";
+@import "./map";
+@import "./blog";
+@import "./gallery/gallery";
+
+@import "./slideable";
 *, *::before, *::after{
 	box-sizing:border-box;
 	margin:0;
@@ -161,4 +162,4 @@ footer,.schedule{
 	}
 }
 
-@import "/media";
+@import "./media";
