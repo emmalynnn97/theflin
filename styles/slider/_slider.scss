@@ -1,0 +1,68 @@
+.slider{
+	@extend .section;
+	min-height:$home-slider-height;
+	width:100%;
+	background-size:cover;
+	background-position:top;
+	background-attachment:fixed;
+	@include flex;
+}
+.slider-1{
+	@extend .slider;
+	background-image:url($slider-1-bg);
+}
+.slider-2{
+	@extend .slider;
+	background-image:url($slider-2-bg);
+}
+.slider-3{
+	@extend .slider;	
+	background-image:url($slider-3-bg);
+}
+.slider-4{
+	@extend .slider;	
+	background-image:url($slider-4-bg);
+}
+.history-slider-1{
+	@extend .slider;	
+	background-image:url($history-slider-1-bg);
+}
+.history-slider-2{
+	@extend .slider;	
+	background-image:url($history-slider-2-bg);
+}
+.history-slider-3{
+	@extend .slider;	
+	background-image:url($history-slider-3-bg);
+}
+.neighborhood-slider-1{
+	@extend .slider;	
+	background-image:url($neighborhood-slider-1-bg);
+}
+.neighborhood-slider-2{
+	@extend .slider;	
+	background-image:url($neighborhood-slider-2-bg);
+}
+.neighborhood-slider-3{
+	@extend .slider;	
+	background-image:url($neighborhood-slider-3-bg);
+}
+.floorplans-slider-1{
+	@extend .slider;
+	background-image:url($floorplans-slider-1-bg);
+	display:flex;
+	align-items:flex-start;
+	overflow-x:visible !important;
+}
+.floorplans-slider-2{
+	@extend .slider;
+	background-image:url($floorplans-slider-2-bg);
+}
+.apply-slider{
+	@extend .slider;
+	background-image:url($apply-slider-bg);
+}
+.portal-slider{
+	@extend .slider;
+	background-image:url($portal-slider-bg);
+}

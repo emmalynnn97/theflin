@@ -1,0 +1,58 @@
+.flin-btn-inverted{
+	@extend .btn;
+	background:transparent;
+	color:$flin-black;
+	background-image:url("/wp-content/uploads/2021/01/black-border.png");
+	&:hover{
+		color:white;
+		background:$flin-black;
+	}
+}
+.flin-btn{
+	@extend .btn;
+	background:transparent;
+	color:white;
+	background-image:url("/wp-content/uploads/2021/01/btn_1.png");
+	&:hover{
+		color:$flin-black;
+		background-image:url("/wp-content/uploads/2021/01/btn-roll_1.png");
+	}
+}
+.flin-btn-gold,#gform_submit_button_3{
+	@extend .btn;
+	background:$flin-gold;
+	color:$flin-black;
+	background-image:url("/wp-content/uploads/2021/01/black-border.png");
+	&:hover{
+		background-image:url("/wp-content/uploads/2021/01/btn-roll_1.png");
+	}
+}
+#gform_submit_button_3{
+	padding: .25em 2.25em !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 28px;
+}
+.floorplan-btn{
+	@extend .btn;
+	background:inherit;
+	border:2px solid $flin-black;
+	color:$flin-black;
+}
+.floorplan-btn-gold{
+	@extend .btn;
+	background:$flin-gold;
+	color:white;	
+}
+.btn{
+	font-family: $sub-header-font;
+	cursor:pointer;
+	text-decoration:none;
+	text-transform:uppercase;
+	letter-spacing:$btn-letter-spacing;
+	padding:$btn-padding;
+	background-size:cover;
+	background-position:center;
+	transition:$transition;
+}

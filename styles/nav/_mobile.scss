@@ -1,0 +1,31 @@
+@media (max-width: $tablet-width){
+	#site-header{
+		top:0 !important;
+		z-index: 3 !important;
+		.search-toggle{
+			display:none;
+		}
+		.section-inner{
+			@include flex;
+		}
+	}
+	.menu-modal-inner{
+		background:$flin-black;
+		.close-nav-toggle{
+			span{
+				color:white;
+			}
+			svg{
+				polygon{fill:white;}
+			}
+		}
+		.menu-item{
+			font-family:$sub-header-font;
+			.ancestor-wrapper{
+				a{
+					color:white;
+				}
+			}
+		}
+	}
+}

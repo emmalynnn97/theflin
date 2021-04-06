@@ -1,0 +1,17 @@
+body.login {
+  background-image: url('top_pic_website.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size:cover;
+}
+#loginform{
+	background:rgba(255,255,255,.4);
+	backdrop-filter:blur(4px);
+}
+#loginform label, #backtoblog > a, #nav > a{
+	color:white !important;
+}
+#login > h1 > a{
+	background-image:url('/wp-content/uploads/2021/01/logo.png');
+}

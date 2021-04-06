@@ -1,0 +1,12 @@
+@media(max-width:$tablet-width){
+	.life-options{
+		.row{
+			flex-direction:column;
+			.option-1,.option-2,.option-3,.option-4{
+				width:100% !important;
+				margin-top:1% !important;
+			}
+		}
+		width:90% !important;
+	}
+}	

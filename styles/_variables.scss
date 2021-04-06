@@ -1,0 +1,109 @@
+//All Variables and Mixins
+@mixin hero($image, $height, $class, $position : center){
+	.#{$class}{
+		background-image:url($image);
+		min-height:$height;
+		width:100%;
+		background-size:cover;
+		background-position:$position;
+	}
+}
+@mixin flex($direction : row, $justify : center, $align : center){
+	display:flex;
+	flex-direction:$direction;
+	justify-content:$justify;
+	align-items:$align;
+}
+@mixin fillImage($url, $position){
+	background-image:url($url);
+	background-size:cover;
+	background-position:$position;
+}
+@function calcToggleWidth($sidebar-width){
+	@return calc(#{.07 * $sidebar-width})
+}
+@function calcIconWidth($sidebar-width){
+	@return calc(#{.18 * $sidebar-width})
+}
+@function calcContentWidth($sidebar-width){
+	@return calc(#{.75 * $sidebar-width})
+}
+
+$flin-black : #231f20;
+$flin-gray : #5d5b5e;
+$flin-light-gray : #c6c6bc;
+$flin-brown : #877166;
+$flin-black-see-through:rgba(35,31,32,.5);
+$flin-beige : #e5dec2;
+$flin-gold : #c6a36b;
+$flin-blue : #90abbc;
+$flin-navy : #303f52;
+$life-overlay-bg:rgba(31,38,45,.7);
+$map-background:#dfe0e1;
+$sidebar-width: 350px;
+$sidebar-height:300px;
+$sidebar-height-mobile:400px;
+$toggle-width: calcToggleWidth($sidebar-width);
+$icon-width: calcIconWidth($sidebar-width);
+$content-width: calcContentWidth($sidebar-width);
+$header-font : 'Reem Kufi', sans-serif;
+$sub-header-font: 'Poppins', sans-serif;
+$btn-letter-spacing:1.25px;
+$nav-height:100px;
+$home-slider-height:75vh;
+$home-schedule-height:35vh;
+$home-life-height:100vh;
+$top-height:75vh;
+$vision-height:50vh;
+$btn-padding:.2em 1.2em;
+$map-height:33vh;
+$mobile-top-height:100vh;
+$home-content-width:80%;
+$life-overlay-height:50%;
+$sidebar-offset-top:30vh;
+$sidebar-offset-right:0;
+$transition:.25s ease;
+$option-height:325px;
+$top-bg:'/wp-content/uploads/2021/01/top_pic_website.jpg';
+$slider-1-bg:'/wp-content/uploads/2021/01/Mid_pic_website.jpg';
+$slider-2-bg:'/wp-content/uploads/2021/01/btm_pic_website.jpg';
+$slider-3-bg:'/wp-content/uploads/2021/01/Interior.jpg';
+$slider-4-bg:'/wp-content/uploads/2021/01/Dog_walk.jpg';
+$schedule-bg:'/wp-content/uploads/2021/01/background_blue.png';
+$amenities-top-bg:'/wp-content/uploads/2021/03/Amenities_header.jpg';
+$floorplan-image:'/wp-content/uploads/2021/01/Floorplan_image.jpg';
+$neighborhood-image:'/wp-content/uploads/2021/03/Theater.jpg';
+$lifestyle-image:'/wp-content/uploads/2021/03/HUB-1.jpg';
+$amenities-image:'/wp-content/uploads/2021/03/Club-Kitchen.jpg';
+$fitness-image:'/wp-content/uploads/2021/03/Fitness-center-2.jpg';
+$floorplans-top-bg:'/wp-content/uploads/2021/02/Heder_image.jpg';
+$floorplans-slider-1-bg:'/wp-content/uploads/2021/02/bathroom.jpg';
+$floorplans-slider-2-bg:'/wp-content/uploads/2021/02/bedroom.jpg';
+$floorplan-title-wrapper-bg:'/wp-content/uploads/2021/02/1_bedroom.png';
+$neighborhood-top-bg:'/wp-content/uploads/2021/02/Heder_image-1.jpg';
+$neighborhood-slider-1-bg:'/wp-content/uploads/2021/03/bus.jpg';
+$neighborhood-slider-2-bg:'/wp-content/uploads/2021/02/Hotel_img.jpg';
+$neighborhood-slider-3-bg:'/wp-content/uploads/2021/02/desert_img.jpg';
+$eat-image:'/wp-content/uploads/2021/03/eat.jpg';
+$shop-image:'/wp-content/uploads/2021/03/shop.jpg';
+$play-image:'/wp-content/uploads/2021/03/play.jpg';
+$history-top-bg:'/wp-content/uploads/2021/03/History_Top.jpg';
+$history-slider-1-bg:'/wp-content/uploads/2021/03/Samiego_house.jpg';
+$history-slider-2-bg:'/wp-content/uploads/2021/03/C_pic.jpg';
+$history-slider-3-bg:'/wp-content/uploads/2021/03/Car_tm.jpg';
+$gallery-top-bg:'/wp-content/uploads/2021/03/Top_pic.jpg';
+
+$life-image-1:'/wp-content/uploads/2021/01/Floorplan_image.jpg';
+$life-image-2:'/wp-content/uploads/2021/01/neighborhood_image.jpg';
+$life-image-3:'/wp-content/uploads/2021/01/lifestyle.jpg';
+$life-image-4:'/wp-content/uploads/2021/01/Amenities.jpg';
+$site-logo:'/wp-content/uploads/2021/01/logo.png';
+$apply-top-bg:'/wp-content/uploads/2021/03/top_photos-1.jpg';
+$apply-slider-bg:'/wp-content/uploads/2021/03/photos.jpg';
+
+$portal-top-bg:'/wp-content/uploads/2021/03/Top_image.jpg';
+$portal-slider-bg:'/wp-content/uploads/2021/03/downtown_night.jpg';
+
+$faq-top-bg:'/wp-content/uploads/2021/03/top_pic_faqs.jpg';
+$tablet-width:800px;
+$mobile-width:500px;

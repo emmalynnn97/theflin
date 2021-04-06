@@ -1,0 +1,584 @@
+10/05/20 2:26:20: style.scss - Undefined variable $bodyColor: line: 17
+10/05/20 2:26:29: style.scss - Undefined variable $bodyColor: line: 17
+10/05/20 2:26:32: style.scss - Undefined variable $bodyColor: line: 17
+10/05/20 2:35:19: style.scss - Undefined variable $primaryColor: line: 19
+10/05/20 2:46:21: style.scss - parse error: failed at `:::before{` /nas/content/live/theflin2020/wp-content/themes/theflin/styles/style.scss on line 34
+10/05/20 3:47:42: style.scss - Undefined variable $flinOrange: line: 19
+10/05/20 3:47:45: style.scss - Undefined variable $flinOrange: line: 19
+10/05/20 7:14:05: style.scss - parse error: failed at `background-color:rgb(255 175 55 / 35%)` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_home.scss on line 7
+10/05/20 7:14:20: style.scss - parse error: failed at `background-color:rgba(255, 175, 55, .35)` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_home.scss on line 7
+10/05/20 8:45:45: style.scss - Missing argument position: line: 3
+10/05/20 8:45:52: style.scss - Missing argument position: line: 3
+10/05/20 9:10:38: style.scss - ".flin-btn-primary" failed to @extend "s". The selector "s" was not found.: line: 11
+10/05/20 9:14:13: style.scss - Undefined mixin flexCenter: line: 5
+10/05/20 9:14:21: style.scss - Undefined mixin flexCenter: line: 5
+01/11/21 3:05:25: style.scss - parse error: failed at `$primary-font : font-family: 'Reem Kufi', sans-serif;` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 13
+01/11/21 3:05:46: style.scss - parse error: failed at `$primary-font : font-family: 'Reem Kufi', sans-serif;` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 13
+01/11/21 3:18:13: style.scss - Undefined variable $primary-font: line: 26
+01/11/21 3:19:24: style.scss - Undefined variable $primary-font: line: 26
+01/11/21 3:27:27: style.scss - Undefined variable $flinOrange: line: 9
+01/11/21 3:27:31: style.scss - Undefined variable $flinOrange: line: 9
+01/11/21 3:27:45: style.scss - Undefined variable $flinOrange: line: 9
+01/11/21 3:27:46: style.scss - Undefined variable $btnPadding: line: 4
+01/11/21 3:27:51: style.scss - Undefined variable $btnPadding: line: 4
+01/11/21 3:27:53: style.scss - Undefined variable $btnPadding: line: 4
+01/11/21 3:27:57: style.scss - Undefined variable $btnPadding: line: 4
+01/11/21 3:47:01: style.scss - Undefined variable $flin-orange: line: 64
+01/11/21 3:47:15: style.scss - Undefined variable $flin-orange: line: 64
+01/11/21 6:09:28: style.scss - Undefined variable $sidebar-height: line: 4
+01/11/21 6:09:36: style.scss - Undefined variable $sidebar-height: line: 4
+01/11/21 6:11:22: style.scss - Undefined variable $sub-header: line: 15
+01/11/21 6:19:21: style.scss - parse error: failed at `rotate(90deg);` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_sidebar.scss on line 19
+01/11/21 6:19:21: style.scss - parse error: failed at `rotate(90deg);` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_sidebar.scss on line 19
+01/11/21 6:19:26: style.scss - parse error: failed at `rotate(90deg);` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_sidebar.scss on line 19
+01/11/21 6:19:30: style.scss - parse error: failed at `rotate(90deg);` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_sidebar.scss on line 19
+01/11/21 6:19:45: style.scss - parse error: failed at `rotate(90deg);` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_sidebar.scss on line 19
+01/11/21 6:19:45: style.scss - parse error: failed at `rotate(90deg);` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_sidebar.scss on line 19
+01/11/21 6:19:54: style.scss - parse error: failed at `rotate(90deg);` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_sidebar.scss on line 19
+01/11/21 6:19:59: style.scss - parse error: failed at `rotate(90deg);` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_sidebar.scss on line 19
+01/11/21 6:20:13: style.scss - parse error: failed at `rotate(90deg);` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_sidebar.scss on line 19
+01/11/21 6:52:27: style.scss - parse error: failed at `$toggle-width : calc(.07 * $sidebar-width)` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_sidebar.scss on line 33
+01/11/21 9:35:18: style.scss - parse error: failed at `@include:flexCenter;` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_home.scss on line 12
+01/11/21 9:35:27: style.scss - parse error: failed at `@include:flexCenter;` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_home.scss on line 12
+01/11/21 9:40:29: style.scss - Undefined variable $home-life-height: line: 24
+01/11/21 9:40:36: style.scss - Undefined variable $home-life-height: line: 24
+01/12/21 8:41:41: style.scss - parse error: failed at `background-image:url("/wp-content/uploads/2021/01/btn-rollover_1.png")` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_buttons.scss on line 16
+01/12/21 9:02:51: style.scss - Undefined variable $flinBlack: line: 21
+01/12/21 9:19:39: style.scss - Undefined variable $primary-font: line: 14
+01/12/21 9:19:49: style.scss - Undefined variable $primary-font: line: 14
+01/12/21 9:19:55: style.scss - Undefined variable $subheader-font: line: 14
+01/12/21 9:20:14: style.scss - Undefined variable $body-font: line: 14
+01/12/21 9:20:32: style.scss - Undefined variable $body-font: line: 14
+01/12/21 9:25:46: style.scss - Undefined variable $topHeight: line: 2
+01/12/21 9:25:49: style.scss - Undefined variable $topHeight: line: 2
+01/12/21 9:25:53: style.scss - Undefined variable $topHeight: line: 2
+01/13/21 2:34:01: style.scss - parse error: failed at `border:2px solid transparent` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_nav.scss on line 30
+01/13/21 2:42:51: style.scss - unexpected }: failed at `` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_buttons.scss on line 38
+01/13/21 3:11:06: style.scss - ".slider-1" failed to @extend "s". The selector "s" was not found.: line: 57
+01/13/21 3:23:28: style.scss - Undefined variable $map-background: line: 127
+01/13/21 3:23:39: style.scss - Undefined variable $map-background: line: 127
+01/13/21 4:58:07: style.scss - unclosed block: failed at `` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_home.scss on line 157
+01/13/21 4:59:00: style.scss - unclosed block: failed at `` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_home.scss on line 157
+01/13/21 4:59:12: style.scss - unclosed block: failed at `` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_home.scss on line 157
+01/13/21 4:59:17: style.scss - unclosed block: failed at `` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_home.scss on line 157
+01/13/21 4:59:58: style.scss - unclosed block: failed at `` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_home.scss on line 157
+01/13/21 5:00:24: style.scss - unclosed block: failed at `` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_home.scss on line 157
+01/13/21 8:27:40: style.scss - Undefined variable $btn-padding: line: 36
+01/13/21 8:27:49: style.scss - Undefined variable $btn-padding: line: 36
+01/13/21 8:28:27: style.scss - Undefined variable $btn-letter-spacing: line: 35
+01/13/21 8:28:36: style.scss - Undefined variable $btn-letter-spacing: line: 35
+01/13/21 8:32:43: style.scss - Undefined variable $life-overlay-bg: line: 37
+01/13/21 8:32:51: style.scss - Undefined variable $life-overlay-bg: line: 37
+01/13/21 8:33:32: style.scss - Undefined variable $sidebar-offset: line: 7
+01/13/21 8:33:42: style.scss - Undefined variable $sidebar-offset: line: 7
+01/14/21 10:32:44: style.scss - ".top" failed to @extend ".section". The selector ".section" was not found.: line: 2
+01/14/21 10:32:49: style.scss - ".top" failed to @extend ".section". The selector ".section" was not found.: line: 2
+01/14/21 10:55:38: style.scss - Undefined variable $option-height: line: 26
+01/14/21 10:55:46: style.scss - Undefined variable $option-height: line: 26
+01/15/21 9:51:48: style.scss - Undefined variable $top-bg: line: 5
+01/15/21 9:51:58: style.scss - parse error: failed at `$top-bg:"/wp-content/uploads/2021/01/Header_image-1.jpg"` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 82
+01/15/21 10:29:35: style.scss - Undefined variable $amenities-top-bg: line: 26
+01/15/21 10:29:46: style.scss - Undefined variable $amenities-top-bg: line: 26
+01/15/21 10:29:47: style.scss - Undefined variable $amenities-top-bg: line: 26
+01/15/21 10:30:01: style.scss - Undefined variable $amenities-top-bg: line: 26
+01/15/21 10:30:03: style.scss - Undefined variable $amenities-top-bg: line: 26
+01/15/21 10:30:05: style.scss - Undefined variable $amenities-top-bg: line: 26
+01/15/21 10:30:05: style.scss - Undefined variable $amenities-top-bg: line: 26
+01/15/21 10:30:05: style.scss - Undefined variable $amenities-top-bg: line: 26
+01/15/21 10:30:16: style.scss - Undefined variable $amenities-top-bg: line: 26
+01/15/21 10:43:32: style.scss - Undefined variable $slider-3-bg: line: 19
+01/15/21 10:43:43: style.scss - Undefined variable $slider-3-bg: line: 19
+01/15/21 10:46:38: style.scss - parse error: failed at `$slider-4-bg:'/wp-content/uploads/2021/01/Dog_walk.jpg'` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 87
+01/18/21 10:00:05: style.scss - Undefined variable $floorplan-image: line: 62
+01/22/21 5:02:34: style.scss - parse error: failed at `top:calc(#{$mobile-top-height} - (#{$sidebar-height} / 2 );` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_media.scss on line 118
+01/22/21 5:02:58: style.scss - parse error: failed at `top:calc(#{$mobile-top-height} - (#{$sidebar-height / 2} );` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_media.scss on line 118
+02/03/21 2:37:53: style.scss - Undefined variable $floorplans-top-bg: line: 14
+02/03/21 2:38:00: style.scss - Undefined variable $floorplans-top-bg: line: 14
+02/03/21 2:38:05: style.scss - Undefined variable $floorplans-top-bg: line: 14
+02/03/21 2:38:07: style.scss - Undefined variable $floorplans-top-bg: line: 14
+02/03/21 2:38:20: style.scss - Undefined variable $floorplans-top-bg: line: 14
+02/03/21 2:38:23: style.scss - Undefined variable $floorplans-top-bg: line: 14
+02/03/21 2:38:24: style.scss - Undefined variable $floorplans-top-bg: line: 14
+02/03/21 2:38:41: style.scss - Undefined variable $floorplans-top-bg: line: 14
+02/03/21 2:41:05: style.scss - Undefined variable $floorplans-slider-1-bg: line: 28
+02/03/21 2:41:21: style.scss - Undefined variable $floorplans-slider-1-bg: line: 28
+02/03/21 2:41:22: style.scss - Undefined variable $floorplans-slider-1-bg: line: 28
+02/03/21 2:41:23: style.scss - Undefined variable $floorplans-slider-1-bg: line: 28
+02/03/21 2:41:25: style.scss - Undefined variable $floorplans-slider-1-bg: line: 28
+02/03/21 2:41:27: style.scss - Undefined variable $floorplans-slider-1-bg: line: 28
+02/03/21 2:41:37: style.scss - Undefined variable $floorplans-slider-1-bg: line: 28
+02/03/21 2:41:46: style.scss - Undefined variable $floorplans-slider-1-bg: line: 28
+02/03/21 2:41:48: style.scss - Undefined variable $floorplans-slider-1-bg: line: 28
+02/03/21 2:41:49: style.scss - Undefined variable $floorplans-slider-1-bg: line: 28
+02/03/21 2:41:58: style.scss - Undefined variable $floorplans-slider-1-bg: line: 28
+02/03/21 3:14:24: style.scss - Undefined variable $body-font: line: 30
+02/03/21 3:14:28: style.scss - Undefined variable $body-font: line: 30
+02/03/21 3:14:45: style.scss - Undefined variable $body-font: line: 30
+02/03/21 3:31:17: style.scss - Undefined variable $floorplans-slider-2-bg: line: 35
+02/03/21 3:31:18: style.scss - Undefined variable $floorplans-slider-2-bg: line: 35
+02/03/21 3:31:19: style.scss - Undefined variable $floorplans-slider-2-bg: line: 35
+02/03/21 3:32:00: style.scss - Undefined variable $floorplans-slider-2-bg: line: 35
+02/03/21 3:32:02: style.scss - Undefined variable $floorplans-slider-2-bg: line: 35
+02/03/21 3:32:18: style.scss - Undefined variable $floorplans-slider-2-bg: line: 35
+02/03/21 3:32:20: style.scss - Undefined variable $floorplans-slider-2-bg: line: 35
+02/03/21 3:32:22: style.scss - Undefined variable $floorplans-slider-2-bg: line: 35
+02/03/21 3:32:28: style.scss - Undefined variable $floorplans-slider-2-bg: line: 35
+02/03/21 3:32:57: style.scss - Undefined variable $floorplans-slider-2-bg: line: 35
+02/03/21 5:06:47: style.scss - parse error: failed at `$floorplans-slider-2-bg:'/wp-content/uploads/2021/02/bedroom.jpg'` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 75
+02/25/21 6:29:10: style.scss - Undefined variable $neighborhood-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 6:29:25: style.scss - Undefined variable $neighborhood-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 6:29:34: style.scss - Undefined variable $neighborhood-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 6:29:36: style.scss - Undefined variable $neighborhood-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 6:29:38: style.scss - Undefined variable $neighborhood-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 6:29:46: style.scss - Undefined variable $neighborhood-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 6:29:48: style.scss - Undefined variable $neighborhood-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 6:29:49: style.scss - Undefined variable $neighborhood-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 6:29:50: style.scss - Undefined variable $neighborhood-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 6:29:51: style.scss - Undefined variable $neighborhood-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 6:29:54: style.scss - Undefined variable $neighborhood-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 6:29:56: style.scss - Undefined variable $neighborhood-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 6:31:01: style.scss - Undefined variable $neighborhood-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 6:31:05: style.scss - Undefined variable $neighborhood-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 6:31:21: style.scss - Undefined variable $neighborhood-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 6:39:42: style.scss - unexpected }: failed at `` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_vision.scss on line 94, at column 0
+02/25/21 6:40:10: style.scss - unexpected }: failed at `` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_vision.scss on line 94, at column 0
+02/25/21 7:36:44: style.scss - Undefined variable $neighborhood-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 7:36:45: style.scss - Undefined variable $neighborhood-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 7:36:50: style.scss - Undefined variable $neighborhood-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 7:37:09: style.scss - Undefined variable $neighborhood-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 7:37:13: style.scss - Undefined variable $neighborhood-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 7:37:15: style.scss - Undefined variable $neighborhood-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 7:37:19: style.scss - Undefined variable $neighborhood-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 7:37:20: style.scss - Undefined variable $neighborhood-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 7:37:54: style.scss - Undefined variable $neighborhood-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 7:37:57: style.scss - Undefined variable $neighborhood-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 7:37:58: style.scss - Undefined variable $neighborhood-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 7:38:00: style.scss - Undefined variable $neighborhood-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+02/25/21 7:38:08: style.scss - Undefined variable $neighborhood-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/01/21 10:45:23: style.scss - Undefined variable $history-slider-1-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 28, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/01/21 10:45:37: style.scss - Undefined variable $history-slider-1-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 28, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/01/21 10:45:38: style.scss - Undefined variable $history-slider-1-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 28, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/01/21 10:45:39: style.scss - Undefined variable $history-slider-1-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 28, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/01/21 10:45:39: style.scss - Undefined variable $history-slider-1-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 28, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/01/21 10:45:39: style.scss - Undefined variable $history-slider-1-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 28, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/01/21 10:45:41: style.scss - Undefined variable $history-slider-1-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 28, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/01/21 10:45:43: style.scss - Undefined variable $history-slider-1-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 28, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/01/21 10:46:04: style.scss - Undefined variable $history-slider-1-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 28, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/01/21 10:46:06: style.scss - Undefined variable $history-slider-1-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 28, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/01/21 10:46:12: style.scss - Undefined variable $history-slider-1-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 28, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/01/21 10:46:14: style.scss - Undefined variable $history-slider-1-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 28, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/01/21 10:46:15: style.scss - Undefined variable $history-slider-1-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 28, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/01/21 10:46:22: style.scss - Undefined variable $history-slider-1-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 28, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:03:50: style.scss - Undefined variable $history-slider-2-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 32, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:03:52: style.scss - Undefined variable $history-slider-2-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 32, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:03:52: style.scss - Undefined variable $history-slider-2-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 32, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:03:53: style.scss - Undefined variable $history-slider-2-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 32, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:03:55: style.scss - Undefined variable $history-slider-2-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 32, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:04:39: style.scss - Undefined variable $history-slider-2-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 32, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:04:42: style.scss - Undefined variable $history-slider-2-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 32, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:04:52: style.scss - Undefined variable $history-slider-2-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 32, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:04:54: style.scss - Undefined variable $history-slider-2-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 32, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:05:00: style.scss - Undefined variable $history-slider-2-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 32, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:05:01: style.scss - Undefined variable $history-slider-2-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 32, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:05:09: style.scss - Undefined variable $history-slider-2-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 32, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:19:31: style.scss - Undefined variable $history-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:19:40: style.scss - Undefined variable $history-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:19:43: style.scss - Undefined variable $history-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:19:53: style.scss - Undefined variable $history-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:19:55: style.scss - Undefined variable $history-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:19:56: style.scss - Undefined variable $history-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:19:57: style.scss - Undefined variable $history-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:19:58: style.scss - Undefined variable $history-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:20:01: style.scss - Undefined variable $history-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:20:10: style.scss - Undefined variable $history-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:20:26: style.scss - Undefined variable $history-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:20:30: style.scss - Undefined variable $history-slider-3-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 36, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:26:55: style.scss - Undefined variable $gallery-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:27:00: style.scss - Undefined variable $gallery-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:27:09: style.scss - Undefined variable $gallery-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:27:10: style.scss - Undefined variable $gallery-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:27:11: style.scss - Undefined variable $gallery-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:27:11: style.scss - Undefined variable $gallery-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:27:11: style.scss - Undefined variable $gallery-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:27:12: style.scss - Undefined variable $gallery-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:27:14: style.scss - Undefined variable $gallery-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:27:43: style.scss - Undefined variable $gallery-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:27:44: style.scss - Undefined variable $gallery-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:27:46: style.scss - Undefined variable $gallery-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:27:50: style.scss - Undefined variable $gallery-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:27:51: style.scss - Undefined variable $gallery-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/02/21 8:27:57: style.scss - Undefined variable $gallery-top-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 3, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 43
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 42
+03/04/21 7:05:21: style.scss - parse error: failed at `@include hero($history-top-bg, $top-height, .history-top, top);` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 53, at column 1
+03/04/21 7:05:31: style.scss - parse error: failed at `@include hero($history-top-bg, $top-height, .history-top, top);` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_top.scss on line 53, at column 1
+03/04/21 7:33:46: style.scss - Undefined mixin flexCenter: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 8, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/04/21 7:33:55: style.scss - Undefined mixin flexCenter: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 8, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/04/21 7:34:16: style.scss - Undefined mixin flexCenter: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 8, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/04/21 7:34:18: style.scss - Undefined mixin flexCenter: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 8, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/04/21 7:34:25: style.scss - Undefined mixin flexCenter: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 8, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/04/21 7:34:32: style.scss - Undefined mixin flexCenter: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 8, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/04/21 7:34:44: style.scss - Undefined mixin flexCenter: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 8, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/04/21 7:34:50: style.scss - Undefined mixin flexCenter: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_slider.scss on line 8, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/04/21 7:34:53: style.scss - Undefined mixin flexCenter: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_media.scss on line 62, at column 4
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/04/21 7:35:03: style.scss - Undefined mixin flexCenter: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_media.scss on line 62, at column 4
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/04/21 7:35:14: style.scss - Undefined mixin flexCenter: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_media.scss on line 62, at column 4
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/15/21 8:14:43: style.scss - Undefined variable $sidebar-offset-top: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_sidebar.scss on line 8, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/15/21 8:14:44: style.scss - Undefined variable $sidebar-offset-right: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_sidebar.scss on line 7, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/15/21 8:15:04: style.scss - Undefined variable $sidebar-offset-right: /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_sidebar.scss on line 7, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/15/21 9:08:54: style.scss - Undefined variable $sfe: /nas/content/live/theflin2020/wp-content/themes/theflin/styles/sidebar/_mobile.scss on line 7, at column 3
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/15/21 9:09:06: style.scss - Undefined variable $sfe: /nas/content/live/theflin2020/wp-content/themes/theflin/styles/sidebar/_mobile.scss on line 7, at column 3
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/15/21 9:09:15: style.scss - Undefined variable $sfe: /nas/content/live/theflin2020/wp-content/themes/theflin/styles/sidebar/_mobile.scss on line 7, at column 3
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/15/21 9:09:20: style.scss - Undefined variable $sfe: /nas/content/live/theflin2020/wp-content/themes/theflin/styles/sidebar/_mobile.scss on line 7, at column 3
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/15/21 9:30:51: style.scss - Undefined variable $tablet-widt: /nas/content/live/theflin2020/wp-content/themes/theflin/styles/slider/_mobile.scss on line 6, at column 1
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/15/21 9:30:53: style.scss - Undefined variable $tablet-widt: /nas/content/live/theflin2020/wp-content/themes/theflin/styles/slider/_mobile.scss on line 6, at column 1
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/15/21 9:31:02: style.scss - Undefined variable $tablet-widt: /nas/content/live/theflin2020/wp-content/themes/theflin/styles/slider/_mobile.scss on line 6, at column 1
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/15/21 9:31:07: style.scss - Undefined variable $tablet-widt: /nas/content/live/theflin2020/wp-content/themes/theflin/styles/slider/_mobile.scss on line 6, at column 1
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/15/21 9:31:11: style.scss - Undefined variable $tablet-widt: /nas/content/live/theflin2020/wp-content/themes/theflin/styles/slider/_mobile.scss on line 6, at column 1
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/15/21 9:34:17: style.scss - unexpected }: failed at `` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_media.scss on line 102, at column 0
+03/15/21 9:34:20: style.scss - unexpected }: failed at `` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_media.scss on line 102, at column 0
+03/15/21 9:34:23: style.scss - unclosed block: failed at `` /nas/content/live/theflin2020/wp-content/themes/theflin/styles/nav/_mobile.scss on line 31, at column 0
+03/15/21 9:34:25: style.scss - unclosed block: failed at `` /nas/content/live/theflin2020/wp-content/themes/theflin/styles/nav/_mobile.scss on line 31, at column 0
+03/15/21 9:34:38: style.scss - unclosed block: failed at `` /nas/content/live/theflin2020/wp-content/themes/theflin/styles/nav/_mobile.scss on line 31, at column 0
+03/15/21 9:34:39: style.scss - unexpected }: failed at `` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_media.scss on line 102, at column 0
+03/15/21 9:34:41: style.scss - unexpected }: failed at `` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_media.scss on line 102, at column 0
+03/15/21 9:34:45: style.scss - unexpected }: failed at `` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_media.scss on line 102, at column 0
+03/15/21 9:35:03: style.scss - unexpected }: failed at `` /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_media.scss on line 102, at column 0
+03/18/21 5:02:12: style.scss - Undefined variable $apply-sliderhj-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles/slider/_slider.scss on line 63, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/18/21 5:02:17: style.scss - Undefined variable $apply-sliderhj-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles/slider/_slider.scss on line 63, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/18/21 5:02:21: style.scss - Undefined variable $apply-sliderhj-bg: /nas/content/live/theflin2020/wp-content/themes/theflin/styles/slider/_slider.scss on line 63, at column 2
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/22/21 7:22:58: style.scss - Undefined variable $slider-bg-2: /nas/content/live/theflin2020/wp-content/themes/theflin/styles/vision/_vision.scss on line 53, at column 3
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/22/21 7:23:02: style.scss - Undefined variable $slider-bg-2: /nas/content/live/theflin2020/wp-content/themes/theflin/styles/vision/_vision.scss on line 53, at column 3
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/22/21 7:23:13: style.scss - Undefined variable $slider-bg-2: /nas/content/live/theflin2020/wp-content/themes/theflin/styles/vision/_vision.scss on line 53, at column 3
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46
+03/22/21 7:23:31: style.scss - Undefined variable $slider-bg-2: /nas/content/live/theflin2020/wp-content/themes/theflin/styles/vision/_vision.scss on line 53, at column 3
+Call Stack:
+#0 function calcIconWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 47
+#1 function calcToggleWidth /nas/content/live/theflin2020/wp-content/themes/theflin/styles//_variables.scss on line 46

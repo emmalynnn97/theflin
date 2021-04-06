@@ -1,0 +1,164 @@
+/*
+ Theme Name:   The Flin Theme
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty Twenty Child Theme
+ Author:       Emma Lynn
+ Author URI:   http://example.com
+ Template:     twentytwenty
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  Theflin
+*/
+@import "/variables";
+
+@import "/typography";
+
+@import "nav/nav";
+@import "nav/mobile";
+
+@import "/buttons";
+
+@import "sidebar/sidebar";
+@import "sidebar/mobile";
+
+@import "top/top";
+@import "top/mobile";
+
+@import "floorplans/floorplans";
+@import "floorplans/mobile";
+
+@import "vision/vision";
+@import "vision/mobile";
+
+@import "slider/slider";
+@import "slider/mobile";
+
+@import "footer/footer";
+@import "footer/mobile";
+
+@import "/schedule";
+
+@import "life/life";
+@import "life/mobile";
+
+@import "/map";
+@import "/blog";
+@import "gallery/gallery";
+@import "gallery/mobile";
+@import "/slideable";
+*, *::before, *::after{
+	box-sizing:border-box;
+	margin:0;
+	padding:0;
+}
+body{
+	background:transparent;
+}
+html,body{
+	min-height:100%;
+}
+.gfield_description.validation_message,.validation_error{
+	color:white;
+}
+.color-swatches{
+	width:100%;
+	.row{
+		display:flex;
+		justify-content:space-evenly;
+		align-items:center;
+		margin:1em auto;
+		.color-swatch{
+			height:100px;
+			width:100px;
+			border-radius:50%;
+			@include flex;
+			text-transform:uppercase;
+		}
+		.swatch-1{background:$flin-black;}
+		.swatch-2{background:$flin-gray;}
+		.swatch-3{background:$flin-light-gray;}
+		.swatch-4{background:$flin-brown;}
+		.swatch-5{background:$flin-beige;}
+		.swatch-6{background:$flin-gold;}
+		.swatch-7{background:$flin-blue;}
+		.swatch-8{background:$flin-navy;}
+	}
+}
+
+.section{
+	padding:4em 2em;
+	overflow-x:hidden;
+}
+.triangle{
+		clip-path: polygon(50% 100%, 0 50%, 100% 50%);
+		width:150px;
+		height:100px;
+		background-attachment:fixed;
+		background-size:cover;
+		background-position:top;
+}
+
+.gallery-outer{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:200px;
+	margin-top:2em;
+	.item-1{@include fillImage($amenities-image, center);}
+	.item-2{@include fillImage($lifestyle-image, center);}
+	.item-3{@include fillImage($neighborhood-image, center);}
+	.item-4{@include fillImage($fitness-image, center);}
+	.gallery-item{
+		height:100%;
+	}
+}
+.text-right{
+	text-align:right;
+}
+
+.vision-floorplans{
+	.floorplans-row{
+		margin-bottom:2.5em;
+	}
+	.row{
+		.col{
+			width:50%;
+			@include flex(column, center, center);
+			.floorplan-selector{
+				background:$flin-black;
+				width:100%;
+				text-align:center;
+				color:white;
+				padding:.5em 0;
+				font-weight:700;
+				text-transform:uppercase;
+				cursor:pointer;
+				margin:.25em auto;
+			}
+		}
+	}
+}
+footer,.schedule{
+	::marker{
+		content:"";
+	}
+	ul{
+		li{
+			list-style-type:none;
+		}
+	}
+}
+@media (min-width:1200px){
+	.home-top,.amenities-top{
+			background-position:center !important;
+	}
+	.vision-amenities,.vision-home{
+		.triangle-1{
+			background-position:center !important;
+		}
+	}
+}
+
+@import "/media";

@@ -1,0 +1,38 @@
+@media(max-width: $tablet-width){
+	.top{
+		min-height:$mobile-top-height !important;
+		background-attachment:scroll;
+		a{margin-bottom:50%;}
+	}
+	.home-top{
+		background-position:center !important;
+		background-attachment:inherit !important;
+	}
+	.amenities-top{
+		background-position:60% 50% !important;
+		background-attachment:inherit !important;
+	}
+	.apply-top, .portal-top, .gallery-top, .faq-top{
+		img{
+			display:none !important;
+		}
+		h1{
+			position:relative;
+			top:-150px;
+		}
+	}
+}
+@media(max-width:$mobile-width){
+	.top{
+		h1{
+			font-size:1.6em;
+			letter-spacing:4px;
+		}
+		h2{
+			font-size:1em !important;
+		}
+		a{
+			margin-bottom:75%;
+		}
+	}
+}

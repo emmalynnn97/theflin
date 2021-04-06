@@ -1,0 +1,41 @@
+#site-header{
+	position:fixed;
+	width:100%;
+	background-color:transparent;
+	transition:$transition;
+	z-index:3 !important;
+	.header-inner{
+		transition:$transition;
+	}
+	.header-toggles,.mobile-search-toggle{
+		display:none;
+	}
+	.flin-phone-number{
+		color:$flin-gold !important;
+	}
+	.primary-menu{
+		li.menu-item{
+			font-family:$sub-header-font;
+			font-size:14px;
+			margin:auto .25em;
+			a{
+				color:white !important;
+				text-decoration:none;
+				padding:1em;
+				&:hover{
+					@include fillImage("/wp-content/uploads/2021/01/nav-border.png", right);
+				}
+			}
+			a.retracted{
+				color:black !important;
+			}
+		}
+		.current-menu-item{
+			@include fillImage("/wp-content/uploads/2021/01/nav-border.png", right);
+			a{
+				text-decoration:none;
+			}
+		}
+	}
+}
+

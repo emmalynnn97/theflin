@@ -1,0 +1,115 @@
+.sidebar{
+	background:$flin-black-see-through;
+	width:$sidebar-width;
+	height:$sidebar-height;
+	backdrop-filter:blur(4px);
+	position:fixed;
+	right:$sidebar-offset-right;
+	top:$sidebar-offset-top;
+	transition:$transition;
+	@include flex;
+	z-index:2;
+	.toggle{
+		position:relative;
+		left:0px;
+		width:$toggle-width;
+		height:100%;
+		background:$flin-gold;
+		transition:$transition;
+		@include flex;
+		span{
+			writing-mode: vertical-rl;
+			text-orientation: sideways;
+			transform:rotate(180deg);
+			text-transform:uppercase;
+			font-family:$sub-header-font;
+			letter-spacing:1.25px;
+		}
+		.close-btn{
+			position:absolute;
+			top:10px;
+			text-orientation: upright;
+			background:$flin-black;
+			color:white;
+			width:18.5px;
+			@include flex;
+			border:2px solid white;
+			font-weight:700;
+			font-size:12px;
+			transition:$transition;
+			opacity:1;
+		}
+	}
+	.icon-col{
+		width:$icon-width;
+		height:100%;
+		background:$flin-black;
+		@include flex(column, space-evenly, center);
+		transition:$transition;
+		img{
+			width:50%;
+			cursor:pointer;
+			height:30px;
+			padding:.2em;
+			object-fit:contain;
+			&:hover{
+				transform:scale(1.06);
+			}
+		}
+		img.active{
+			transform:scale(1.06);
+		}
+	}
+	.content-area{
+		width:$content-width;
+		height:100%;
+		@include flex;
+		form{
+			@include flex(column, center, center);
+			.gform_fields{
+				margin:0;
+			}
+			.gform_description{
+				color:white;
+				text-align:center;
+				font-family:$header-font;
+				text-transform:uppercase;
+			}
+			.gfield::marker{
+				display:none;
+				list-style-type:none;
+				content:"";
+			}
+			label,.gform_title{
+			
+				display:none;
+			}
+			input{
+				padding:.5em 1em;
+				width:100%;
+				background:$flin-black;
+				border:1px solid white;
+				margin:.5em auto;
+				color:white;
+			}
+			.flin-form-submit{
+				width:50%;
+				text-decoration:none;
+				transition:$transition;
+				&:hover{
+					transform:scale(.96);
+				}
+			}
+		}
+	}	
+}
+.sidebar.hidden{
+	right:calc(#{-1 * $sidebar-width} + #{$toggle-width} + #{$icon-width});
+	background:transparent;
+	.toggle{
+		left:-6px;
+	}
+	.close-btn{
+		opacity:0;
+	}
+}

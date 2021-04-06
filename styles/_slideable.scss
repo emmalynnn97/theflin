@@ -1,0 +1,22 @@
+.slideable{
+	position:relative;
+	left:0;
+	right:0;
+	transition:.45s ease-in;
+ 	opacity:1;
+}
+.slideable-left{
+	left:-100%;
+	opacity:0;
+}
+.slideable-right{
+	left:100%;
+	opacity:0;
+}
+@media (max-width:$tablet-width){
+	.slideable-left,.slideable-right{
+		left:0 !important;
+		right:0 !important;
+		opacity:1 !important;
+	}
+}

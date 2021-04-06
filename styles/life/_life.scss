@@ -1,0 +1,67 @@
+.life{
+	@extend .section;
+	min-height:$home-life-height;
+	@include flex(column, flex-start, center);
+	flex-wrap:wrap;
+	text-align:center;
+	background:white;
+	.triangle-1{
+		background-image:url($slider-1-bg);
+		position:relative;
+		top:-3em;
+	}
+	.triangle-2{background-image:url($slider-2-bg);}
+	.content{
+		width:$home-content-width;
+		img{
+			margin:0 auto;
+		}
+	}
+	.life-options{
+		width:$home-content-width;
+		.row{
+			flex-wrap:wrap;
+			margin:2% auto;
+			@include flex(row, space-evenly, center);
+			.option{
+				width:46%;
+				height:$option-height;
+				display:flex;
+				align-items:flex-end;
+				&:hover{
+					.overlay{
+						height:80%;
+					}
+				}
+				.overlay{
+					background:$life-overlay-bg;
+					height:$life-overlay-height;
+					width:100%;
+					padding:1em;
+					transition:$transition;
+					@include flex(column, space-evenly, center);
+					cursor:pointer;
+					h4{
+						color:white;
+					}
+				}
+			}
+			.option-1{
+				@extend .option;
+				@include fillImage($life-image-1, center);
+			}
+			.option-2{
+				@extend .option;
+				@include fillImage($life-image-2, center);
+			}
+			.option-3{
+				@extend .option;
+				@include fillImage($life-image-3, center);
+			}
+			.option-4{
+				@extend .option;
+				@include fillImage($life-image-4, center);
+			}
+		}
+	}
+}

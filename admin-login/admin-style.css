@@ -1,0 +1,9 @@
+#wpadminbar, #adminmenuback,#adminmenu,#adminmenuwrap{
+	background:#303f52 !important;
+}
+.wp-has-current-submenu, .wp-has-current-submenu .wp-submenu, .wp-submenu-wrap{
+	background:#231f20 !important;
+}
+.wp-menu-name{
+	color:white !important;
+}

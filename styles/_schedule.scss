@@ -1,0 +1,35 @@
+.schedule{
+	@extend .section;
+	min-height:$home-schedule-height;
+	@include fillImage($schedule-bg, center);
+	@include flex;
+	flex-direction:column;
+	h5{
+		color:white;
+		text-align:center;
+	}
+	p{
+		color:white;
+		text-align:center;
+	}
+	img{
+		margin:1em auto;
+	}
+	label{
+		display:none;
+	}
+	input{
+		background:transparent;
+		color:white;
+		height:20px;
+	}
+	.gform_fields,form{
+		display:flex;
+		justify-content:center;
+		align-items:center;
+		flex-wrap:wrap;
+	}
+	ul{
+		margin:1em;
+	}
+}

@@ -1,0 +1,28 @@
+@media (max-width:1024px){
+
+}
+@media (max-width:$tablet-width){
+	.triangle{display:none;}
+	.content{width:100% !important;}
+	.blog{
+		.row{
+			flex-direction:column;
+			.content{
+				align-items:center !important;
+				h3,h6,p{
+					text-align:center;
+				}
+				img{
+					width:100% !important;
+				}
+				margin: 1em auto !important;
+			}
+		}
+		
+	}
+	.section{padding:2em 2em !important;}
+}
+@media (max-width:$mobile-width){
+	
+	
+}

@@ -1,0 +1,27 @@
+.blog{
+	@extend .section;
+	.triangle{
+		background-image:url($schedule-bg);
+		position:relative;
+		top:-3em;
+	}
+	padding:2em 1em;
+	min-height:50vh;
+	.row{
+		@include flex(row, space-evenly, flex-start);
+		flex-wrap:wrap;
+		width:$home-content-width;
+		margin:0 auto;
+		.content{
+			@include flex(column, center, flex-start);
+			width:47.5%;
+			h3{
+				font-size:1.75em;
+				margin:0.75em 0 0.25em 0;
+			}
+			h6{
+				margin-bottom:1em;
+			}
+		}
+	}
+}

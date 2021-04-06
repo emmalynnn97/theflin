@@ -1,0 +1,50 @@
+@include hero($history-top-bg, $top-height, history-top, top);
+@include hero($gallery-top-bg, 60vh !important, gallery-top);
+@include hero($neighborhood-top-bg, $top-height, neighborhood-top, top);
+@include hero($top-bg, $top-height, home-top, top);
+@include hero($amenities-top-bg, $top-height, amenities-top, top);
+@include hero($floorplans-top-bg, $top-height, floorplans-top);
+@include hero($apply-top-bg, $top-height, apply-top);
+@include hero($portal-top-bg, $top-height, portal-top);
+@include hero($faq-top-bg, $top-height, faq-top);
+.gallery-top, .history-top, .neighborhood-top,.home-top, .amenities-top, .floorplans-top, .apply-top, .portal-top, .faq-top{@extend .top;}
+.amenities-top{
+	h1{margin-bottom:.25em;}
+}
+.apply-top, .portal-top{
+	h1{
+		margin-top:.25em !important;
+	}
+	a{
+		margin-bottom:.25em !important;
+	}
+}
+.floorplans-top{
+	h1,a{
+		position:relative;
+		top:-100px;
+	}
+}
+
+.top{
+	@extend .section;
+	min-height:$top-height;
+	@include flex(column, center, center);
+	background-attachment:fixed;
+	h1,h2,a{
+		color:white;
+		text-align:center;
+		margin:0 auto;
+	}
+	h1{
+		letter-spacing:8px;
+		font-weight:500;
+	}
+	h2:nth-of-type(1){
+		margin:0 auto .75em auto;
+		font-size:1.75em;
+	}
+	h2:nth-of-type(2){
+		margin:0 auto .5em auto;
+	}
+}

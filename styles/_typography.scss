@@ -1,0 +1,15 @@
+h1, h2, h3, h4, h5, h6{
+	font-family:$header-font;
+	font-weight:400;
+	text-transform:uppercase;
+	color:$flin-navy;
+	margin:0;
+	letter-spacing:1.5px;
+}
+p, ul, li{
+	font-family:$sub-header-font;
+	font-weight:300;
+}
+a{
+	font-family:$sub-header-font;
+}

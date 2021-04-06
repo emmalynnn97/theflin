@@ -1,0 +1,6 @@
+.map{
+	@extend .section;
+	min-height:$map-height;
+	background:$map-background;
+	@include flex(column, center, center);
+}
