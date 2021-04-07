@@ -99,6 +99,11 @@ html,body{
 		background-attachment:fixed;
 		background-size:cover;
 		background-position:top;
+		.overlay{
+			width:100%;
+			height:100%;
+			background:rgba(0,0,0,.55);
+		}
 }
 
 .gallery-outer{
@@ -151,6 +156,7 @@ footer,.schedule{
 		}
 	}
 }
+
 @media (min-width:1200px){
 	.home-top,.amenities-top{
 			background-position:center !important;
@@ -163,3 +169,7 @@ footer,.schedule{
 }
 
 @import "./media";
+
+.amenities-top{
+	padding:0 !important;
+}

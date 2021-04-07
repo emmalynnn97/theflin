@@ -501,7 +501,7 @@ a {
 }
 
 .amenities-top {
-  background-image: url("/wp-content/uploads/2021/03/Amenities_header.jpg");
+  background-image: url("/wp-content/uploads/2021/03/Theater.jpg");
   min-height: 75vh;
   width: 100%;
   background-size: cover;
@@ -540,8 +540,31 @@ a {
   background-position: center;
 }
 
+.amenities-top {
+  padding: 0 !important;
+}
+
 .amenities-top h1 {
   margin-bottom: .25em;
+}
+
+.amenities-top .amenities-top-overlay {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 100%;
+  height: 75vh;
+  background: rgba(0, 0, 0, 0.55);
 }
 
 .apply-top h1, .portal-top h1 {
@@ -621,6 +644,9 @@ a {
 }
 
 @media (max-width: 500px) {
+  .amenities-top .amenities-top-overlay {
+    height: 100vh;
+  }
   .top h1, .gallery-top h1, .history-top h1, .neighborhood-top h1, .home-top h1, .amenities-top h1, .floorplans-top h1, .apply-top h1, .portal-top h1, .faq-top h1 {
     font-size: 1.6em;
     letter-spacing: 4px;
@@ -1023,7 +1049,7 @@ a {
 }
 
 .vision-amenities .triangle-3 {
-  background-image: url("/wp-content/uploads/2021/03/Amenities_header.jpg");
+  background-image: url("/wp-content/uploads/2021/03/Theater.jpg");
   background-position: top;
   position: relative;
   top: -4.5em;
@@ -2146,6 +2172,12 @@ html, body {
   background-position: top;
 }
 
+.triangle .overlay {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.55);
+}
+
 .gallery-outer {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -2270,4 +2302,8 @@ footer ul li, .schedule ul li {
   .section, .top, .gallery-top, .history-top, .neighborhood-top, .home-top, .amenities-top, .floorplans-top, .apply-top, .portal-top, .faq-top, .slider, .slider-1, .slider-2, .slider-3, .slider-4, .history-slider-1, .history-slider-2, .history-slider-3, .neighborhood-slider-1, .neighborhood-slider-2, .neighborhood-slider-3, .floorplans-slider-1, .floorplans-slider-2, .apply-slider, .portal-slider, .schedule, .life, .map, .blog {
     padding: 2em 2em !important;
   }
+}
+
+.amenities-top {
+  padding: 0 !important;
 }

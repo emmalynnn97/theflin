@@ -23,6 +23,11 @@
 	}
 }
 @media(max-width:$mobile-width){
+	.amenities-top{
+		.amenities-top-overlay{
+			height:$mobile-top-height;
+		}
+	}
 	.top{
 		h1{
 			font-size:1.6em;

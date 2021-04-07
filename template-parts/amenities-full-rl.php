@@ -1,6 +1,6 @@
 <div class="vision-amenities">
 	<div class="row">
-		<div class="triangle triangle-3"></div>
+		<div class="triangle triangle-3"><div class="overlay"></div></div>
 	</div>
 	<div class="row">
 		<div class="content slideable slideable-left">
