@@ -1,4 +1,11 @@
 @media (max-width: $tablet-width){
+	.vision-historic{
+		.row:nth-of-type(2){
+			>div{
+				width:100% !important;
+			}
+		}
+	}
 	.vision-gallery{
 		padding:.5em !important;
 	}

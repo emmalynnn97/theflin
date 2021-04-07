@@ -17,7 +17,7 @@ get_header();
 <?php get_template_part('template-parts/home', 'slider-1'); ?>
 <?php get_template_part('template-parts/home', 'life'); ?>	
 <?php get_template_part('template-parts/home', 'slider-2'); ?>
-<?php get_template_part('template-parts/home', 'view-homes'); ?>	
+<?php get_template_part('template-parts/site', 'historic'); ?>	
 <?php get_template_part('template-parts/home', 'schedule'); ?>	
 
 <?php get_template_part('template-parts/home', 'map'); ?>	
