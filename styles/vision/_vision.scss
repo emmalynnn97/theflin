@@ -48,6 +48,8 @@
 	}
 	.triangle-1{
 		background-image:url($slider-2-bg);
+		position:relative;
+		top:-15px;
 	}
 	.triangle-2{
 		background-image:url($schedule-bg);

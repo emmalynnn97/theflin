@@ -872,6 +872,8 @@ a {
 
 .vision-historic .triangle-1 {
   background-image: url("/wp-content/uploads/2021/01/btm_pic_website.jpg");
+  position: relative;
+  top: -15px;
 }
 
 .vision-historic .triangle-2 {
@@ -1284,6 +1286,7 @@ a {
 @media (max-width: 800px) {
   .vision-historic .row:nth-of-type(2) > div {
     width: 100% !important;
+    text-align: center;
   }
   .vision-gallery {
     padding: .5em !important;
