@@ -19,7 +19,7 @@
 							<a href="/">Home</a>
 							<a href="/neighborhood">Neighborhood</a>
 							<a href="/amenities">Amenities</a>
-							<a href="/floorplans">Floorplans</a>
+							<a href="/floorplans">Floor plans</a>
 							<a href="/gallery">Gallery</a>
 					</div>
 					<div class="col">
