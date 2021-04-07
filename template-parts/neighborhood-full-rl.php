@@ -12,7 +12,7 @@
 			<h4>Parks</h4>
 			<div class="bars"><?php echo get_field('parks'); ?></div>
 			<h4>Museums</h4>
-			<div class="bars"><?php echo get_field('theaters'); ?></div>
+			<div class="bars"><?php echo get_field('museums'); ?></div>
 		</div>
 		<img class="slideable slideable-right" src='/wp-content/uploads/2021/02/Sect_2_images.jpg' alt="highrise image"/>
 	</div>
