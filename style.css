@@ -1052,7 +1052,7 @@ a {
 
 .vision-amenities .triangle-3 {
   background-image: url("/wp-content/uploads/2021/03/Theater.jpg");
-  background-position: top;
+  background-position: center;
   position: relative;
   top: -4.5em;
 }
@@ -1100,6 +1100,7 @@ a {
   background-image: url("/wp-content/uploads/2021/02/Heder_image.jpg");
   position: relative;
   top: -4.5em;
+  background-position: center;
 }
 
 .vision-floorplans .triangle-2 {

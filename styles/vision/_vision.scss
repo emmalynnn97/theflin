@@ -194,7 +194,7 @@
 	@extend .vision;
 	.triangle-3{
 		background-image:url($amenities-top-bg);
-		background-position:top;
+		background-position:center;
 		position:relative;
 		top:-4.5em;
 	}
@@ -225,6 +225,7 @@
 		background-image:url($floorplans-top-bg);
 		position:relative;
 		top:-4.5em;
+		background-position:center;
 	}
 	.triangle-2{background-image:url($floorplans-slider-2-bg);}
 		.triangle-3{background-image:url($floorplans-slider-2-bg);}
