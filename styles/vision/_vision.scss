@@ -234,9 +234,13 @@
 .vision-neighborhood{
 	.bars{
 		display:flex;
+		justify-content: flex-start;
 		ul{
 			margin-bottom:0;
 			margin-left:0;
+			li{
+				margin-right:.75em;
+			}
 		}
 	}
 	.options{

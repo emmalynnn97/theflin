@@ -1115,11 +1115,18 @@ a {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
 }
 
 .vision-neighborhood .bars ul {
   margin-bottom: 0;
   margin-left: 0;
+}
+
+.vision-neighborhood .bars ul li {
+  margin-right: .75em;
 }
 
 .vision-neighborhood .options .row {
