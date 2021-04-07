@@ -4,8 +4,8 @@
 	</div>
 	<div class="row">
 		<div class="text-right content slideable slideable-left">
-			<h3>Our Floorplans Are The Perfect Fit</h3>
-			<h4>22 Floorplans to Choose from, We know you will find one to fit your lifestyle.</h4>
+			<h3>Our Floor plans Are The Perfect Fit</h3>
+			<h4>22 Floor plans to Choose from, We know you will find one to fit your lifestyle.</h4>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
 			<a href="/floorplans" class="flin-btn-inverted">View homes</a>
 		</div>
