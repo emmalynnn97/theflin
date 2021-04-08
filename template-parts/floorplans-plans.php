@@ -20,8 +20,7 @@
     font-weight: 500;
     position:absolute;
     top:0;
-	left:70%;
-	right:0;
+	right:25px;
 	margin:0 auto;
     }
     .modal-close:hover,

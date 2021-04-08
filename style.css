@@ -674,7 +674,7 @@ a {
 }
 
 .floorplan {
-  width: 50%;
+  width: 100%;
   background: white;
   display: -webkit-box;
   display: -ms-flexbox;
