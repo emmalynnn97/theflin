@@ -791,11 +791,23 @@ a {
 }
 
 @media (max-width: 800px) {
+  .vision-floorplans {
+    padding: 2em 2em !important;
+  }
   .floorplan {
     width: 100% !important;
   }
   .floorplan .modal-close {
     left: 90% !important;
+  }
+  .floorplan-selector {
+    width: 100% !important;
+  }
+  .floorplans-row {
+    width: 100% !important;
+  }
+  .floorplans-row .col {
+    width: 100% !important;
   }
   .floorplans {
     top: 0;
