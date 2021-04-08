@@ -221,6 +221,9 @@
 }
 .vision-floorplans{
 	@extend .vision;
+	h4{
+		margin-bottom:.5em;
+	}
 	.triangle-1{
 		background-image:url($floorplans-top-bg);
 		position:relative;

@@ -1121,6 +1121,10 @@ a {
   background-image: url("/wp-content/uploads/2021/03/Car_tm.jpg");
 }
 
+.vision-floorplans h4 {
+  margin-bottom: .5em;
+}
+
 .vision-floorplans .triangle-1 {
   background-image: url("/wp-content/uploads/2021/02/Heder_image.jpg");
   position: relative;
