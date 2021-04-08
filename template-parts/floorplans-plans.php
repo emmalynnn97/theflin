@@ -182,7 +182,7 @@
 				<strong>
 					<span>$</span>0000/mo
 				</strong>
-				<p>
+				<p class="floorplan-price">
 					000 Sq. Ft.
 				</p>
 			</div>
@@ -202,23 +202,4 @@
 		</div>
         </div>
     </div>
-<script type="text/javascript">
-	const modal = document.querySelector("#emma-utils-modal");
-	const closeBtn = document.querySelector(".modal-close");
-	const closeModal = () => {
-		modal.style.display = "none";
-	}
-	const openModal = () => {
-		modal.style.display = "block";
-	}
-	closeBtn.addEventListener('click', closeModal);
-	const floorplans = document.querySelectorAll('.floorplan-selector');
-	floorplans.forEach(plan=>{
-		plan.addEventListener('click', openModal)
-	})
-	window.addEventListener('click', (event) => {
-    if (event.target == modal) {
-        closeModal();
-    }
-})
-</script>
+	<script src="/wp-content/themes/theflin/js/floorplans.js" type="text/javascript"></script>
