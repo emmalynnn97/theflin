@@ -20,7 +20,9 @@
     font-weight: 500;
     position:absolute;
     top:0;
-    right:0;
+	left:70%;
+	right:0;
+	margin:0 auto;
     }
     .modal-close:hover,
     .modal-close:focus {
@@ -168,9 +170,9 @@
 </div>
 <div id="emma-utils-modal">
         <div class="modal-content">
-		<span class="modal-close">&times;</span>
 		<div class="floorplan">
-			<div class="floorplan-title-wrapper">
+		<span class="modal-close">&times;</span>	
+		<div class="floorplan-title-wrapper">
 				<h3 class="floorplan-title"></h3>
 			</div>
 			<img src="/wp-content/uploads/2021/02/FPO_Floorplan.png" alt="floorplan image"/>
