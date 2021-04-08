@@ -171,7 +171,7 @@
 		<span class="modal-close">&times;</span>
 		<div class="floorplan">
 			<div class="floorplan-title-wrapper">
-				<h3>One Bedroom</h3>
+				<h3 class="floorplan-title"></h3>
 			</div>
 			<img src="/wp-content/uploads/2021/02/FPO_Floorplan.png" alt="floorplan image"/>
 			<a class="floorplan-btn">View</a>
@@ -179,12 +179,10 @@
 				<p>
 					Rent Starting at:
 				</p>
-				<strong>
+				<strong class="floorplan-price">
 					<span>$</span>0000/mo
 				</strong>
-				<p class="floorplan-price">
-					000 Sq. Ft.
-				</p>
+				<p class="floorplan-size"></p>
 			</div>
 			<div class="floorplan-features">
 				<p>
