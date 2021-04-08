@@ -97,22 +97,22 @@
 	</h4>
 	<div class="floorplans-row row">
 		<div class="col">
-			<div class="floorplan-selector">
+			<div data-title='A1 Floor Plan' data-size='558' class="floorplan-selector">
 				A1 Floor plan
 			</div>
-			<div class="floorplan-selector">
+			<div data-title='A1.1 Floor Plan' data-size='612' class="floorplan-selector">
 				A1.1 Floor plan
 			</div>
-			<div class="floorplan-selector">
+			<div data-title='A2 Floor Plan' data-size='618' class="floorplan-selector">
 				A2 Floor plan
 			</div>
-			<div class="floorplan-selector">
+			<div data-title='A2.1 Floor Plan' data-size='643' class="floorplan-selector">
 				A2.1 Floor plan
 			</div>
-			<div class="floorplan-selector">
+			<div data-title='A2.2 Floor Plan' data-size='697' class="floorplan-selector">
 				A2.2 Floor plan
 			</div>
-			<div class="floorplan-selector">
+			<div data-title='A2.3 Floor Plan' data-size='656' class="floorplan-selector">
 				A2.3 Floor plan
 			</div>
 		</div>
@@ -124,19 +124,19 @@
 	<div class="floorplans-row row">
 		<img src="/wp-content/uploads/2021/03/kitchen_2-1.jpg" alt="floor image"/>
 		<div class="col">
-			<div class="floorplan-selector">
+			<div data-title='B1 Floor Plan' data-size='1024' class="floorplan-selector">
 				B1 Floor plan
 			</div>
-			<div class="floorplan-selector">
+			<div data-title='B2 Floor Plan' data-size='1023' class="floorplan-selector">
 				B2 Floor plan
 			</div>
-			<div class="floorplan-selector">
+			<div data-title='B2.1 Floor Plan' data-size='1129'  class="floorplan-selector">
 				B2.1 Floor plan
 			</div>
-				<div class="floorplan-selector">
+				<div data-title='B2.2 Floor Plan' data-size='1266' class="floorplan-selector">
 				B2.2 Floor plan
 			</div>
-				<div class="floorplan-selector">
+				<div data-title='B2.3 Floor Plan' data-size='1109' class="floorplan-selector">
 				B2.3 Floor plan
 			</div>
 		</div>
@@ -147,16 +147,16 @@
 	<div class="floorplans-row row">
 		<img src="/wp-content/uploads/2021/03/kitchen_2-1.jpg" alt="floor image"/>
 		<div class="col">
-			<div class="floorplan-selector">
+			<div data-title='C1 Floor Plan' data-size='1260' class="floorplan-selector">
 				C1 Floor plan
 			</div>
-			<div class="floorplan-selector">
+			<div data-title='C2 Floor Plan' data-size='1270' class="floorplan-selector">
 				C2 Floor plan
 			</div>
-			<div class="floorplan-selector">
+			<div data-title='C3 Floor Plan' data-size='1374' class="floorplan-selector">
 				C3 Floor plan
 			</div>
-			<div class="floorplan-selector">
+			<div data-title='C4 Floor Plan' data-size='1356' class="floorplan-selector">
 				C4 Floor plan
 			</div>
 		</div>
