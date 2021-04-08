@@ -6,7 +6,7 @@ const closeModal = () => {
 
 closeBtn.addEventListener('click', closeModal);
 const floorplans = document.querySelectorAll('.floorplan-selector');
-const floorplanSize = document.querySelector('.floorplan-price')
+
 const openModal = () => {
     modal.style.display = "block";
 }
