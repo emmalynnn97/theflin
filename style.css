@@ -948,6 +948,10 @@ a {
   margin-top: 1em;
 }
 
+.vision-faq .faq-questions .faq-question .answer table {
+  margin: 0;
+}
+
 .vision-faq .faq-questions .faq-question .answer strong {
   font-size: 26px;
 }
