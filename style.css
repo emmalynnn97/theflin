@@ -1326,6 +1326,9 @@ a {
 }
 
 @media (max-width: 800px) {
+  .vision-faq {
+    padding: 2em 2em !important;
+  }
   .vision-historic .row:nth-of-type(2) > div {
     width: 100% !important;
     text-align: center;
