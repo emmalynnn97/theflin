@@ -86,7 +86,7 @@
 	</div>
 	<h4  style="text-align:center;">Studio Floor plans</h4>
 	<div class="floorplans-row row">
-		<img src="/wp-content/uploads/2021/03/kitchen_2-1.jpg" alt="floor image"/>
+		<img src="wp-content/uploads/2021/04/iStock-1182454657.jpg" alt="floor image"/>
 		<div class="col">
 			<div data-img='' data-title='E1 Floor Plan' data-size='517' data-price='500' class="floorplan-selector">
 				E1 Floor plan
@@ -117,13 +117,13 @@
 				A2.3 Floor plan
 			</div>
 		</div>
-		<img src="/wp-content/uploads/2021/03/kitchen_2-1.jpg" alt="floor image"/>
+		<img src="/wp-content/uploads/2021/04/iStock-1208206022.jpg" alt="floor image"/>
 	</div>
 	<h4 style="text-align:center;">
 		Two Bedroom Floor plans
 	</h4>
 	<div class="floorplans-row row">
-		<img src="/wp-content/uploads/2021/03/kitchen_2-1.jpg" alt="floor image"/>
+		<img src="/wp-content/uploads/2021/04/iStock-88620892.jpg" alt="floor image"/>
 		<div class="col">
 			<div data-title='B1 Floor Plan' data-size='1024' class="floorplan-selector">
 				B1 Floor plan
@@ -146,7 +146,7 @@
 		Three Bedroom & Mezzanine Floor plans
 	</h4>
 	<div class="floorplans-row row">
-		<img src="/wp-content/uploads/2021/03/kitchen_2-1.jpg" alt="floor image"/>
+		<img src="/wp-content/uploads/2021/04/iStock-979339200.jpg" alt="floor image"/>
 		<div class="col">
 			<div data-title='C1 Floor Plan' data-size='1260' class="floorplan-selector">
 				C1 Floor plan
