@@ -86,7 +86,7 @@
 	</div>
 	<h4  style="text-align:center;">Studio Floor plans</h4>
 	<div class="floorplans-row row">
-		<img src="wp-content/uploads/2021/04/iStock-1182454657.jpg" alt="floor image"/>
+		<img src="/wp-content/uploads/2021/04/iStock-1182454657.jpg" alt="floor image"/>
 		<div class="col">
 			<div data-img='' data-title='E1 Floor Plan' data-size='517' data-price='500' class="floorplan-selector">
 				E1 Floor plan
@@ -123,7 +123,7 @@
 		Two Bedroom Floor plans
 	</h4>
 	<div class="floorplans-row row">
-		<img src="/wp-content/uploads/2021/04/iStock-88620892.jpg" alt="floor image"/>
+		<img src="http://the-flin.local/wp-content/uploads/2021/04/iStock-88620892.jpg" alt="floor image"/>
 		<div class="col">
 			<div data-title='B1 Floor Plan' data-size='1024' class="floorplan-selector">
 				B1 Floor plan
