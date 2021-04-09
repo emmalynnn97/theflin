@@ -308,6 +308,8 @@ a {
 .sidebar .icon-col img {
   cursor: pointer;
   height: 30px;
+  -webkit-transition: .15s ease-in-out;
+  transition: .15s ease-in-out;
   -o-object-fit: contain;
      object-fit: contain;
 }

@@ -50,7 +50,7 @@
 		img{
 			cursor:pointer;
 			height:30px;
-		
+			transition:.15s ease-in-out;
 			object-fit:contain;
 			&:hover{
 				transform:scale(1.06);
