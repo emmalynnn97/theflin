@@ -46,7 +46,7 @@
 		background:$flin-black;
 		@include flex(column, space-evenly, center);
 		transition:$transition;
-		padding:.2em;
+		padding:0 1em;
 		img{
 			cursor:pointer;
 			height:30px;

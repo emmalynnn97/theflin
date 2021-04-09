@@ -302,7 +302,7 @@ a {
           align-items: center;
   -webkit-transition: 0.25s ease;
   transition: 0.25s ease;
-  padding: .2em;
+  padding: 0 1em;
 }
 
 .sidebar .icon-col img {
