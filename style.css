@@ -302,13 +302,12 @@ a {
           align-items: center;
   -webkit-transition: 0.25s ease;
   transition: 0.25s ease;
+  padding: .2em;
 }
 
 .sidebar .icon-col img {
-  width: 50%;
   cursor: pointer;
   height: 30px;
-  padding: .2em;
   -o-object-fit: contain;
      object-fit: contain;
 }

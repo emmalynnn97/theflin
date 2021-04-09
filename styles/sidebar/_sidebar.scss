@@ -46,11 +46,11 @@
 		background:$flin-black;
 		@include flex(column, space-evenly, center);
 		transition:$transition;
+		padding:.2em;
 		img{
-			width:50%;
 			cursor:pointer;
 			height:30px;
-			padding:.2em;
+		
 			object-fit:contain;
 			&:hover{
 				transform:scale(1.06);
