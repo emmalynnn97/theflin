@@ -6,6 +6,26 @@ footer{
 	justify-content:space-evenly;
 	align-items:center;
 	img{width:200px;}
+	.icon-col{
+		width:$icon-width;
+		height:100%;
+		background:$flin-black;
+		@include flex(column, space-evenly, center);
+		transition:$transition;
+		padding:0 1em;
+		img{
+			cursor:pointer;
+			height:30px;
+			transition:.15s ease-in-out;
+			object-fit:contain;
+			&:hover{
+				transform:scale(1.06);
+			}
+		}
+		img.active{
+			transform:scale(1.06);
+		}
+	}
 	.flin-footer-links{
 		display:flex !important;
 		justify-content:space-evenly;
