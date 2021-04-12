@@ -704,7 +704,7 @@ a {
   padding: 1em;
   position: relative;
   top: -45px;
-  width: 100%;
+  width: 75%;
   text-align: center;
   background-image: url("/wp-content/uploads/2021/02/1_bedroom.png");
   background-size: contain;
@@ -2300,7 +2300,7 @@ html, body {
   width: 100%;
   text-align: center;
   color: white;
-  padding: .5em 0;
+  padding: .35em 0;
   font-weight: 700;
   text-transform: uppercase;
   cursor: pointer;

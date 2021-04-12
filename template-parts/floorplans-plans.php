@@ -89,7 +89,7 @@
 		<img src="/wp-content/uploads/2021/04/iStock-1182454657.jpg" alt="floor image"/>
 		<div class="col">
 			<div data-img='' data-title='E1' data-size='517' data-price='500' class="floorplan-selector">
-				E1 Floor plan
+				E1
 			</div>
 		</div>
 	</div>
