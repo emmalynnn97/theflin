@@ -617,6 +617,7 @@ a {
 
 .top h2:nth-of-type(2), .gallery-top h2:nth-of-type(2), .history-top h2:nth-of-type(2), .neighborhood-top h2:nth-of-type(2), .home-top h2:nth-of-type(2), .amenities-top h2:nth-of-type(2), .floorplans-top h2:nth-of-type(2), .apply-top h2:nth-of-type(2), .portal-top h2:nth-of-type(2), .faq-top h2:nth-of-type(2) {
   margin: 0 auto .5em auto;
+  font-size: 1.9em !important;
 }
 
 @media (max-width: 800px) {
