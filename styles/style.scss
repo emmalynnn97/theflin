@@ -133,7 +133,7 @@ html,body{
 			width:50%;
 			@include flex(column, center, center);
 			.floorplan-selector{
-				background:$flin-black;
+				background:$flin-gray;
 				width:100%;
 				text-align:center;
 				color:white;

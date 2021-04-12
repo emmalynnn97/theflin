@@ -88,7 +88,7 @@
 	<div class="floorplans-row row">
 		<img src="/wp-content/uploads/2021/04/iStock-1182454657.jpg" alt="floor image"/>
 		<div class="col">
-			<div data-img='' data-title='E1 Floor Plan' data-size='517' data-price='500' class="floorplan-selector">
+			<div data-img='' data-title='E1' data-size='517' data-price='500' class="floorplan-selector">
 				E1 Floor plan
 			</div>
 		</div>
@@ -98,23 +98,23 @@
 	</h4>
 	<div class="floorplans-row row">
 		<div class="col">
-			<div data-title='A1 Floor Plan' data-size='558' class="floorplan-selector">
-				A1 Floor plan
+			<div data-title='A1' data-size='558' class="floorplan-selector">
+				A1
 			</div>
-			<div data-title='A1.1 Floor Plan' data-size='612' class="floorplan-selector">
-				A1.1 Floor plan
+			<div data-title='A1.1' data-size='612' class="floorplan-selector">
+				A1.1
 			</div>
-			<div data-title='A2 Floor Plan' data-size='618' class="floorplan-selector">
-				A2 Floor plan
+			<div data-title='A2' data-size='618' class="floorplan-selector">
+				A2
 			</div>
-			<div data-title='A2.1 Floor Plan' data-size='643' class="floorplan-selector">
-				A2.1 Floor plan
+			<div data-title='A2.1' data-size='643' class="floorplan-selector">
+				A2.1
 			</div>
-			<div data-title='A2.2 Floor Plan' data-size='697' class="floorplan-selector">
-				A2.2 Floor plan
+			<div data-title='A2.2' data-size='697' class="floorplan-selector">
+				A2.2
 			</div>
-			<div data-title='A2.3 Floor Plan' data-size='656' class="floorplan-selector">
-				A2.3 Floor plan
+			<div data-title='A2.3' data-size='656' class="floorplan-selector">
+				A2.3
 			</div>
 		</div>
 		<img src="/wp-content/uploads/2021/04/iStock-1208206022.jpg" alt="floor image"/>
@@ -125,40 +125,40 @@
 	<div class="floorplans-row row">
 		<img src="/wp-content/uploads/2021/04/iStock-88620892.jpg" alt="floor image"/>
 		<div class="col">
-			<div data-title='B1 Floor Plan' data-size='1024' class="floorplan-selector">
-				B1 Floor plan
+			<div data-title='B1' data-size='1024' class="floorplan-selector">
+				B1
 			</div>
-			<div data-title='B2 Floor Plan' data-size='1023' class="floorplan-selector">
-				B2 Floor plan
+			<div data-title='B2' data-size='1023' class="floorplan-selector">
+				B2
 			</div>
-			<div data-title='B2.1 Floor Plan' data-size='1129'  class="floorplan-selector">
-				B2.1 Floor plan
+			<div data-title='B2.1' data-size='1129'  class="floorplan-selector">
+				B2.1
 			</div>
-				<div data-title='B2.2 Floor Plan' data-size='1266' class="floorplan-selector">
-				B2.2 Floor plan
+				<div data-title='B2.2' data-size='1266' class="floorplan-selector">
+				B2.2
 			</div>
-				<div data-title='B2.3 Floor Plan' data-size='1109' class="floorplan-selector">
-				B2.3 Floor plan
+				<div data-title='B2.3' data-size='1109' class="floorplan-selector">
+				B2.3
 			</div>
 		</div>
 	</div>
 	<h4  style="text-align:center;">
-		Three Bedroom & Mezzanine Floor plans
+		Three Bedroom & Loft Floor plans
 	</h4>
 	<div class="floorplans-row row">
 		<img src="/wp-content/uploads/2021/04/iStock-979339200.jpg" alt="floor image"/>
 		<div class="col">
-			<div data-title='C1 Floor Plan' data-size='1260' class="floorplan-selector">
-				C1 Floor plan
+			<div data-title='C1' data-size='1260' class="floorplan-selector">
+				C1
 			</div>
-			<div data-title='C2 Floor Plan' data-size='1270' class="floorplan-selector">
-				C2 Floor plan
+			<div data-title='C2' data-size='1270' class="floorplan-selector">
+				C2
 			</div>
-			<div data-title='C3 Floor Plan' data-size='1374' class="floorplan-selector">
-				C3 Floor plan
+			<div data-title='C3 Loft' data-size='1374' class="floorplan-selector">
+				C3 Loft
 			</div>
-			<div data-title='C4 Floor Plan' data-size='1356' class="floorplan-selector">
-				C4 Floor plan
+			<div data-title='C4 Loft' data-size='1356' class="floorplan-selector">
+				C4 Loft
 			</div>
 		</div>
 	</div>
