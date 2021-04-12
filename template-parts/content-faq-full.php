@@ -6,6 +6,7 @@
 			</div>
 		<div class="answer">
 			<strong>A: </strong>
+			Yes, we are pet friendly! We even have a dog run area on-site.
 			<ul>
 				<li>One (1) pet $300 refundable / $200 non-refundable, $30 rent fee.</li>
 				<li>Two (2) pets $500 refundable / $300 non-refundable, $60 rent fee.</li>
