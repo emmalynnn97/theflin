@@ -83,7 +83,7 @@ a {
   text-decoration: none;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
   #site-header {
     top: 0 !important;
     z-index: 3 !important;
