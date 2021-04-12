@@ -1,7 +1,7 @@
 <div class="faq-questions">
 		<div class="faq-question">
 			<div class="question-row">
-				<p class="question">Q: Pet Friendly?</p>	
+				<p class="question">Q: Is the community pet friendly?</p>	
 				<p class="question-toggle">+</p>
 			</div>
 		<div class="answer">
@@ -16,14 +16,14 @@
 	</div>
 	<div class="faq-question">
 			<div class="question-row">
-				<p class="question">Q: Lease Lengths?</p>	
+				<p class="question">Q: What are the lease lengths?</p>	
 				<p class="question-toggle">+</p>
 			</div>
 		<p class="answer"><strong>A: </strong>The Flin Offers 6-13 month lease options. Pick your preferred move-in and move-out dates that best suits you.</p>
 	</div>
 	<div class="faq-question">
 			<div class="question-row">
-				<p class="question">Q: Utilities Included?</p>	
+				<p class="question">Q: Are utilities included?</p>	
 				<p class="question-toggle">+</p>
 			</div>
 		<div class="answer"><strong>A: </strong>
@@ -57,21 +57,21 @@
 	</div>
 	<div class="faq-question">
 			<div class="question-row">
-				<p class="question">Q: WiFi Ready?</p>	
+				<p class="question">Q: Are all units WiFi ready?</p>	
 				<p class="question-toggle">+</p>
 			</div>
 		<p class="answer"><strong>A: </strong>Yes! Our homes have a built-in modem that helps you set up your preferred internet package by just opening your computer. Cable and phone services are easy to set up as well.</p>
 	</div>
 	<div class="faq-question">
 			<div class="question-row">
-				<p class="question">Q: Other Fees?</p>	
+				<p class="question">Q: Are there any other fees?</p>	
 				<p class="question-toggle">+</p>
 			</div>
 		<p class="answer"><strong>A: </strong>Other than the $50 application per adult, we have a $250 non-refundable admin fee. If you have additional fee questions or concerns please contact our leasing team. </p>
 	</div>
 	<div class="faq-question">
 			<div class="question-row">
-				<p class="question">Q: Parking?</p>	
+				<p class="question">Q: How is parking at The Flin?</p>	
 				<p class="question-toggle">+</p>
 			</div>
 		<p class="answer"><strong>A: </strong>We are fortunate to have our very own secure underground garage and each home comes with one assigned parking space at a $95/month cost. Residents who live in a C3, C4 and certain C2 floor plan homes will come with 2 tandem parking spaces at a cost of $125/month. (*Pricing subject to change.)
@@ -81,14 +81,14 @@ The Flin also partners up with The Placita Garage across the street that offer d
 	</div>
 	<div class="faq-question">
 			<div class="question-row">
-				<p class="question">Q: Charging Station for Electric Cars?</p>	
+				<p class="question">Q: Is there a charging station for electric cars?</p>	
 				<p class="question-toggle">+</p>
 			</div>
 		<p class="answer"><strong>A: </strong>Yes, The Flin will have 3 Blink charging station on-site.</p>
 	</div>
 	<div class="faq-question">
 			<div class="question-row">
-				<p class="question">Q: Elevator Access?</p>	
+				<p class="question">Q: Is there elevator access in the building?</p>	
 				<p class="question-toggle">+</p>
 			</div>
 		<p class="answer"><strong>A: </strong>	Yes, there’s a few elevators throughout our community.
