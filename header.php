@@ -115,7 +115,7 @@
 
 								}
 								?>
-								<li class="menu-item"><a style="color:#c6a36b !important;" href="tel:1-520-000-0000" class="flin-phone-number">520.000.000</a></li>
+								<li class="menu-item"><a style="color:#c6a36b !important;" href="tel:346-The-Flin" class="flin-phone-number">346-The-Flin</a></li>
 								</ul>
 
 							</nav><!-- .primary-menu-wrapper -->
