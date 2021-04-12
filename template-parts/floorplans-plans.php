@@ -49,7 +49,7 @@
     animation-duration: .75s;
 }
 /* Inner Modal Content Styling */
-.modal-inner {
+.emma-modal-inner {
     background-color:rgb(255, 245, 255);
     height:80%;
     width:100%;
