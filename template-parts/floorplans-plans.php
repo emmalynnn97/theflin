@@ -123,7 +123,7 @@
 		Two Bedroom Floor plans
 	</h4>
 	<div class="floorplans-row row">
-		<img src="http://the-flin.local/wp-content/uploads/2021/04/iStock-88620892.jpg" alt="floor image"/>
+		<img src="/wp-content/uploads/2021/04/iStock-88620892.jpg" alt="floor image"/>
 		<div class="col">
 			<div data-title='B1 Floor Plan' data-size='1024' class="floorplan-selector">
 				B1 Floor plan
