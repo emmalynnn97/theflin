@@ -13,8 +13,10 @@
 
 ?>
 			<footer id="site-footer" role="contentinfo" class="header-footer-group">
-				<a href="/"><img src="/wp-content/uploads/2021/01/logo_footer.png" alt="Flin footer logo"/></a>
-				<!--<a href="/"><img src="/wp-content/uploads/2021/04/logo-eho.png" alt="equal housing opportunity logo"/></a>-->
+			<div class="flin-footer-img-container">
+			<a class="flin-footer-logo" href="/"><img src="/wp-content/uploads/2021/01/logo_footer.png" alt="Flin footer logo"/></a>
+				<a href="/"><img src="/wp-content/uploads/2021/04/logo-hslasset-eho.png" alt="equal housing opportunity logo"/></a>
+			</div>	
 				<div class="flin-footer-links">
 					<div class="col icon-col">
 					<a href="tel:520.000.000"><img class="phone" src="/wp-content/uploads/2021/01/phone.png" alt="phone icon"/></a>

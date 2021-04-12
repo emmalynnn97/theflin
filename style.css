@@ -1503,8 +1503,25 @@ footer {
           align-items: center;
 }
 
-footer img {
-  width: 200px;
+footer .flin-footer-img-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+footer .flin-footer-img-container .flin-footer-logo {
+  width: 175px;
+  margin-bottom: 1.5em;
 }
 
 footer .icon-col {
@@ -1524,6 +1541,7 @@ footer .icon-col {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  align-items: center !important;
   -webkit-transition: 0.25s ease;
   transition: 0.25s ease;
   padding: 0 1em;
@@ -1636,13 +1654,15 @@ footer .gform_footer.top_label input {
         -ms-flex-direction: row !important;
             flex-direction: row !important;
   }
-  footer a > img {
-    width: 100px !important;
-    margin: 0 0 2em 0;
-  }
   footer .flin-footer-links {
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
+  }
+  footer .flin-footer-img-container {
+    margin-bottom: 2em;
+  }
+  footer .flin-footer-img-container img {
+    margin: 0 !important;
   }
 }
 

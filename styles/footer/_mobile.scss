@@ -6,12 +6,14 @@
 			width:100% !important;
 			flex-direction: row !important;
 		}
-		a > img{
-			width:100px !important;
-			margin:0 0 2em 0;
-		}
 		.flin-footer-links{
 			flex-wrap:wrap;
+		}
+		.flin-footer-img-container{
+			img{
+				margin:0 !important;
+			}
+			margin-bottom:2em;
 		}
 	}
 }
