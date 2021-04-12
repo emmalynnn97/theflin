@@ -14,7 +14,7 @@
 			<h4>Museums</h4>
 			<div class="bars"><?php echo get_field('museums'); ?></div>
 		</div>
-		<img class="slideable slideable-right" src='/wp-content/uploads/2021/02/Sect_2_images.jpg' alt="highrise image"/>
+		<img style="width:75%; max-width:500px;" class="slideable slideable-right" src='/wp-content/uploads/2021/04/iStock-933911872-scaled.jpeg' alt="highrise image"/>
 	</div>
 	<!--<div class="options">	
 	<div class="row">
