@@ -1341,6 +1341,9 @@ a {
   .vision-amenities .gallery-row .gallery-outer .gallery-item {
     width: 60vw;
   }
+  .vision, .vision-historic, .vision-faq, .vision-portal, .vision-apply, .vision-gallery, .vision-home, .vision-amenities, .vision-history, .vision-floorplans, .vision-neighborhood {
+    padding: 2em !important;
+  }
   .vision .row, .vision-historic .row, .vision-faq .row, .vision-portal .row, .vision-apply .row, .vision-gallery .row, .vision-home .row, .vision-amenities .row, .vision-history .row, .vision-floorplans .row, .vision-neighborhood .row {
     -webkit-box-orient: vertical !important;
     -webkit-box-direction: normal !important;
