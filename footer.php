@@ -13,7 +13,8 @@
 
 ?>
 			<footer id="site-footer" role="contentinfo" class="header-footer-group">
-				<a href="/"><img src="http://theflin2020.wpengine.com/wp-content/uploads/2021/01/logo_footer.png" alt="Flin footer logo"/></a>
+				<a href="/"><img src="/wp-content/uploads/2021/01/logo_footer.png" alt="Flin footer logo"/></a>
+				<a href="/"><img src="/wp-content/uploads/2021/04/logo-eho.png" alt="equal housing opportunity logo"/></a>
 				<div class="flin-footer-links">
 					<div class="col">
 							<a href="/">Home</a>
