@@ -2,7 +2,7 @@
 		<div class="row">
 			<div class="option-1 slideable slideable-left">
 				<div class="overlay">
-					<h4>Floor plans</h4>
+					<h4>Floorplans</h4>
 					<a href="/floorplans" class="flin-btn-gold">Learn More</a>
 				</div>
 			</div>
