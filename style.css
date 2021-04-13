@@ -1121,14 +1121,13 @@ a {
 }
 
 .vision-home .triangle-1 {
-  background-image: url("/wp-content/uploads/2021/01/top_pic_website.jpg");
-  background-position: top;
+  background-image: url("/wp-content/uploads/2021/01/Mid_pic_website.jpg");
+  top: -15px;
   position: relative;
-  top: -4.5em;
 }
 
 .vision-home .triangle-2 {
-  background-image: url("/wp-content/uploads/2021/01/Mid_pic_website.jpg");
+  background-image: url("/wp-content/uploads/2021/01/btm_pic_website.jpg");
 }
 
 .vision-home .triangle-7 {
@@ -1845,13 +1844,14 @@ footer .gform_footer.top_label input {
 }
 
 .life .triangle-1 {
-  background-image: url("/wp-content/uploads/2021/01/Mid_pic_website.jpg");
+  background-image: url("/wp-content/uploads/2021/01/top_pic_website.jpg");
+  background-position: top;
   position: relative;
-  top: -3em;
+  top: -7em;
 }
 
 .life .triangle-2 {
-  background-image: url("/wp-content/uploads/2021/01/btm_pic_website.jpg");
+  background-image: url("/wp-content/uploads/2021/01/Mid_pic_website.jpg");
 }
 
 .life .content {
@@ -2474,7 +2474,7 @@ footer ul li, .schedule ul li {
   .home-top, .amenities-top {
     background-position: center !important;
   }
-  .vision-amenities .triangle-1, .vision-home .triangle-1 {
+  .vision-amenities .triangle-1, .life .triangle-1 {
     background-position: center !important;
   }
 }

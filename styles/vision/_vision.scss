@@ -207,12 +207,11 @@
 .vision-home{
 	@extend .vision;
 	.triangle-1{
-		background-image:url($top-bg);
-		background-position:top;
+		background-image:url($slider-1-bg);
+		top:-15px;
 		position:relative;
-		top:-4.5em;
 	}
-	.triangle-2{background-image:url($slider-1-bg);}
+	.triangle-2{background-image:url($slider-2-bg);}
 	.triangle-7{
 		background-image:url($slider-2-bg);
 	}

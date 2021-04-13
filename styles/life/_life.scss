@@ -6,11 +6,12 @@
 	text-align:center;
 	background:white;
 	.triangle-1{
-		background-image:url($slider-1-bg);
+		background-image:url($top-bg);
+		background-position:top;
 		position:relative;
-		top:-3em;
+		top:-7em;
 	}
-	.triangle-2{background-image:url($slider-2-bg);}
+	.triangle-2{background-image:url($slider-1-bg);}
 	.content{
 		width:$home-content-width;
 		img{
