@@ -133,6 +133,51 @@
 		background-image:url($portal-slider-bg);
 	}
 }
+.vision-contact{
+	@extend .vision;
+	.triangle-1{
+		background-image:url($contact-top-bg);
+		background-position:center;
+		position:relative;
+		top:-4.5em;
+	}
+	.contact-page-form-container{
+		background:$flin-light-gray;
+		@include flex(column, center, center);
+		padding:1.5em;
+		h2{
+			font-size:1em;
+			font-weight:700;
+		}
+		.gfield_label{
+			display:none;
+		}
+		ul, li{
+			margin:0;
+		}
+		ul{
+			margin-top:1em;
+			list-style-type: none;
+		}
+		li{
+			margin:.5em 0;
+		}
+		p{
+			text-align: center;
+			color:$flin-navy;
+		}
+		input[type="submit"]{
+			background:$flin-navy;
+			padding:.35em 1.15em;
+			font-family:$sub-header-font;
+			margin-bottom:1em;
+		}
+		#gform_4{
+			margin:0;
+			@include flex(column, center, center);
+		}
+	}
+}
 .vision-apply{
 	@extend .vision;
 	.triangle-1{

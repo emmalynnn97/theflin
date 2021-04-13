@@ -541,6 +541,14 @@ a {
   background-position: center;
 }
 
+.contact-top {
+  background-image: url("/wp-content/uploads/2021/04/Contactus-header.jpg");
+  min-height: 75vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
 .amenities-top {
   padding: 0 !important;
 }
@@ -581,7 +589,7 @@ a {
   top: -100px;
 }
 
-.top, .gallery-top, .history-top, .neighborhood-top, .home-top, .amenities-top, .floorplans-top, .apply-top, .portal-top, .faq-top {
+.top, .contact-top, .gallery-top, .history-top, .neighborhood-top, .home-top, .amenities-top, .floorplans-top, .apply-top, .portal-top, .faq-top {
   min-height: 75vh;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -599,33 +607,33 @@ a {
   background-attachment: fixed;
 }
 
-.top h1, .gallery-top h1, .history-top h1, .neighborhood-top h1, .home-top h1, .amenities-top h1, .floorplans-top h1, .apply-top h1, .portal-top h1, .faq-top h1, .top h2, .gallery-top h2, .history-top h2, .neighborhood-top h2, .home-top h2, .amenities-top h2, .floorplans-top h2, .apply-top h2, .portal-top h2, .faq-top h2, .top a, .gallery-top a, .history-top a, .neighborhood-top a, .home-top a, .amenities-top a, .floorplans-top a, .apply-top a, .portal-top a, .faq-top a {
+.top h1, .contact-top h1, .gallery-top h1, .history-top h1, .neighborhood-top h1, .home-top h1, .amenities-top h1, .floorplans-top h1, .apply-top h1, .portal-top h1, .faq-top h1, .top h2, .contact-top h2, .gallery-top h2, .history-top h2, .neighborhood-top h2, .home-top h2, .amenities-top h2, .floorplans-top h2, .apply-top h2, .portal-top h2, .faq-top h2, .top a, .contact-top a, .gallery-top a, .history-top a, .neighborhood-top a, .home-top a, .amenities-top a, .floorplans-top a, .apply-top a, .portal-top a, .faq-top a {
   color: white;
   text-align: center;
   margin: 0 auto;
 }
 
-.top h1, .gallery-top h1, .history-top h1, .neighborhood-top h1, .home-top h1, .amenities-top h1, .floorplans-top h1, .apply-top h1, .portal-top h1, .faq-top h1 {
+.top h1, .contact-top h1, .gallery-top h1, .history-top h1, .neighborhood-top h1, .home-top h1, .amenities-top h1, .floorplans-top h1, .apply-top h1, .portal-top h1, .faq-top h1 {
   letter-spacing: 8px;
   font-weight: 500;
 }
 
-.top h2:nth-of-type(1), .gallery-top h2:nth-of-type(1), .history-top h2:nth-of-type(1), .neighborhood-top h2:nth-of-type(1), .home-top h2:nth-of-type(1), .amenities-top h2:nth-of-type(1), .floorplans-top h2:nth-of-type(1), .apply-top h2:nth-of-type(1), .portal-top h2:nth-of-type(1), .faq-top h2:nth-of-type(1) {
+.top h2:nth-of-type(1), .contact-top h2:nth-of-type(1), .gallery-top h2:nth-of-type(1), .history-top h2:nth-of-type(1), .neighborhood-top h2:nth-of-type(1), .home-top h2:nth-of-type(1), .amenities-top h2:nth-of-type(1), .floorplans-top h2:nth-of-type(1), .apply-top h2:nth-of-type(1), .portal-top h2:nth-of-type(1), .faq-top h2:nth-of-type(1) {
   margin: 0 auto .75em auto;
   font-size: 1.75em;
 }
 
-.top h2:nth-of-type(2), .gallery-top h2:nth-of-type(2), .history-top h2:nth-of-type(2), .neighborhood-top h2:nth-of-type(2), .home-top h2:nth-of-type(2), .amenities-top h2:nth-of-type(2), .floorplans-top h2:nth-of-type(2), .apply-top h2:nth-of-type(2), .portal-top h2:nth-of-type(2), .faq-top h2:nth-of-type(2) {
+.top h2:nth-of-type(2), .contact-top h2:nth-of-type(2), .gallery-top h2:nth-of-type(2), .history-top h2:nth-of-type(2), .neighborhood-top h2:nth-of-type(2), .home-top h2:nth-of-type(2), .amenities-top h2:nth-of-type(2), .floorplans-top h2:nth-of-type(2), .apply-top h2:nth-of-type(2), .portal-top h2:nth-of-type(2), .faq-top h2:nth-of-type(2) {
   margin: 0 auto .5em auto;
   font-size: 1.9em !important;
 }
 
 @media (max-width: 800px) {
-  .top, .gallery-top, .history-top, .neighborhood-top, .home-top, .amenities-top, .floorplans-top, .apply-top, .portal-top, .faq-top {
+  .top, .contact-top, .gallery-top, .history-top, .neighborhood-top, .home-top, .amenities-top, .floorplans-top, .apply-top, .portal-top, .faq-top {
     min-height: 100vh !important;
     background-attachment: scroll;
   }
-  .top a, .gallery-top a, .history-top a, .neighborhood-top a, .home-top a, .amenities-top a, .floorplans-top a, .apply-top a, .portal-top a, .faq-top a {
+  .top a, .contact-top a, .gallery-top a, .history-top a, .neighborhood-top a, .home-top a, .amenities-top a, .floorplans-top a, .apply-top a, .portal-top a, .faq-top a {
     margin-bottom: 50%;
   }
   .home-top {
@@ -649,14 +657,14 @@ a {
   .amenities-top .amenities-top-overlay {
     height: 100vh;
   }
-  .top h1, .gallery-top h1, .history-top h1, .neighborhood-top h1, .home-top h1, .amenities-top h1, .floorplans-top h1, .apply-top h1, .portal-top h1, .faq-top h1 {
+  .top h1, .contact-top h1, .gallery-top h1, .history-top h1, .neighborhood-top h1, .home-top h1, .amenities-top h1, .floorplans-top h1, .apply-top h1, .portal-top h1, .faq-top h1 {
     font-size: 1.6em;
     letter-spacing: 4px;
   }
-  .top h2, .gallery-top h2, .history-top h2, .neighborhood-top h2, .home-top h2, .amenities-top h2, .floorplans-top h2, .apply-top h2, .portal-top h2, .faq-top h2 {
+  .top h2, .contact-top h2, .gallery-top h2, .history-top h2, .neighborhood-top h2, .home-top h2, .amenities-top h2, .floorplans-top h2, .apply-top h2, .portal-top h2, .faq-top h2 {
     font-size: 1em !important;
   }
-  .top a, .gallery-top a, .history-top a, .neighborhood-top a, .home-top a, .amenities-top a, .floorplans-top a, .apply-top a, .portal-top a, .faq-top a {
+  .top a, .contact-top a, .gallery-top a, .history-top a, .neighborhood-top a, .home-top a, .amenities-top a, .floorplans-top a, .apply-top a, .portal-top a, .faq-top a {
     margin-bottom: 75%;
   }
 }
@@ -817,13 +825,13 @@ a {
   }
 }
 
-.vision, .vision-historic, .vision-faq, .vision-portal, .vision-apply, .vision-gallery, .vision-home, .vision-amenities, .vision-history, .vision-floorplans, .vision-neighborhood {
+.vision, .vision-historic, .vision-faq, .vision-portal, .vision-contact, .vision-apply, .vision-gallery, .vision-home, .vision-amenities, .vision-history, .vision-floorplans, .vision-neighborhood {
   padding: 1em 6em;
   overflow-x: hidden;
   min-height: 50vh;
 }
 
-.vision .row, .vision-historic .row, .vision-faq .row, .vision-portal .row, .vision-apply .row, .vision-gallery .row, .vision-home .row, .vision-amenities .row, .vision-history .row, .vision-floorplans .row, .vision-neighborhood .row {
+.vision .row, .vision-historic .row, .vision-faq .row, .vision-portal .row, .vision-contact .row, .vision-apply .row, .vision-gallery .row, .vision-home .row, .vision-amenities .row, .vision-history .row, .vision-floorplans .row, .vision-neighborhood .row {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -839,11 +847,11 @@ a {
           align-items: center;
 }
 
-.vision .row .content, .vision-historic .row .content, .vision-faq .row .content, .vision-portal .row .content, .vision-apply .row .content, .vision-gallery .row .content, .vision-home .row .content, .vision-amenities .row .content, .vision-history .row .content, .vision-floorplans .row .content, .vision-neighborhood .row .content {
+.vision .row .content, .vision-historic .row .content, .vision-faq .row .content, .vision-portal .row .content, .vision-contact .row .content, .vision-apply .row .content, .vision-gallery .row .content, .vision-home .row .content, .vision-amenities .row .content, .vision-history .row .content, .vision-floorplans .row .content, .vision-neighborhood .row .content {
   width: 50%;
 }
 
-.vision .row .content .rl-list, .vision-historic .row .content .rl-list, .vision-faq .row .content .rl-list, .vision-portal .row .content .rl-list, .vision-apply .row .content .rl-list, .vision-gallery .row .content .rl-list, .vision-home .row .content .rl-list, .vision-amenities .row .content .rl-list, .vision-history .row .content .rl-list, .vision-floorplans .row .content .rl-list, .vision-neighborhood .row .content .rl-list {
+.vision .row .content .rl-list, .vision-historic .row .content .rl-list, .vision-faq .row .content .rl-list, .vision-portal .row .content .rl-list, .vision-contact .row .content .rl-list, .vision-apply .row .content .rl-list, .vision-gallery .row .content .rl-list, .vision-home .row .content .rl-list, .vision-amenities .row .content .rl-list, .vision-history .row .content .rl-list, .vision-floorplans .row .content .rl-list, .vision-neighborhood .row .content .rl-list {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -859,37 +867,37 @@ a {
           align-items: flex-start;
 }
 
-.vision .row .content .rl-list ul, .vision-historic .row .content .rl-list ul, .vision-faq .row .content .rl-list ul, .vision-portal .row .content .rl-list ul, .vision-apply .row .content .rl-list ul, .vision-gallery .row .content .rl-list ul, .vision-home .row .content .rl-list ul, .vision-amenities .row .content .rl-list ul, .vision-history .row .content .rl-list ul, .vision-floorplans .row .content .rl-list ul, .vision-neighborhood .row .content .rl-list ul {
+.vision .row .content .rl-list ul, .vision-historic .row .content .rl-list ul, .vision-faq .row .content .rl-list ul, .vision-portal .row .content .rl-list ul, .vision-contact .row .content .rl-list ul, .vision-apply .row .content .rl-list ul, .vision-gallery .row .content .rl-list ul, .vision-home .row .content .rl-list ul, .vision-amenities .row .content .rl-list ul, .vision-history .row .content .rl-list ul, .vision-floorplans .row .content .rl-list ul, .vision-neighborhood .row .content .rl-list ul {
   margin: 0;
   width: 45%;
 }
 
-.vision .row .content .rl-list ul li, .vision-historic .row .content .rl-list ul li, .vision-faq .row .content .rl-list ul li, .vision-portal .row .content .rl-list ul li, .vision-apply .row .content .rl-list ul li, .vision-gallery .row .content .rl-list ul li, .vision-home .row .content .rl-list ul li, .vision-amenities .row .content .rl-list ul li, .vision-history .row .content .rl-list ul li, .vision-floorplans .row .content .rl-list ul li, .vision-neighborhood .row .content .rl-list ul li {
+.vision .row .content .rl-list ul li, .vision-historic .row .content .rl-list ul li, .vision-faq .row .content .rl-list ul li, .vision-portal .row .content .rl-list ul li, .vision-contact .row .content .rl-list ul li, .vision-apply .row .content .rl-list ul li, .vision-gallery .row .content .rl-list ul li, .vision-home .row .content .rl-list ul li, .vision-amenities .row .content .rl-list ul li, .vision-history .row .content .rl-list ul li, .vision-floorplans .row .content .rl-list ul li, .vision-neighborhood .row .content .rl-list ul li {
   margin: .25em 0;
   text-transform: capitalize;
 }
 
-.vision .row img, .vision-historic .row img, .vision-faq .row img, .vision-portal .row img, .vision-apply .row img, .vision-gallery .row img, .vision-home .row img, .vision-amenities .row img, .vision-history .row img, .vision-floorplans .row img, .vision-neighborhood .row img {
+.vision .row img, .vision-historic .row img, .vision-faq .row img, .vision-portal .row img, .vision-contact .row img, .vision-apply .row img, .vision-gallery .row img, .vision-home .row img, .vision-amenities .row img, .vision-history .row img, .vision-floorplans .row img, .vision-neighborhood .row img {
   width: 40%;
   max-width: 400px;
 }
 
-.vision .row h3, .vision-historic .row h3, .vision-faq .row h3, .vision-portal .row h3, .vision-apply .row h3, .vision-gallery .row h3, .vision-home .row h3, .vision-amenities .row h3, .vision-history .row h3, .vision-floorplans .row h3, .vision-neighborhood .row h3 {
+.vision .row h3, .vision-historic .row h3, .vision-faq .row h3, .vision-portal .row h3, .vision-contact .row h3, .vision-apply .row h3, .vision-gallery .row h3, .vision-home .row h3, .vision-amenities .row h3, .vision-history .row h3, .vision-floorplans .row h3, .vision-neighborhood .row h3 {
   text-transform: uppercase;
   font-size: 1.5em;
 }
 
-.vision .row h4, .vision-historic .row h4, .vision-faq .row h4, .vision-portal .row h4, .vision-apply .row h4, .vision-gallery .row h4, .vision-home .row h4, .vision-amenities .row h4, .vision-history .row h4, .vision-floorplans .row h4, .vision-neighborhood .row h4 {
+.vision .row h4, .vision-historic .row h4, .vision-faq .row h4, .vision-portal .row h4, .vision-contact .row h4, .vision-apply .row h4, .vision-gallery .row h4, .vision-home .row h4, .vision-amenities .row h4, .vision-history .row h4, .vision-floorplans .row h4, .vision-neighborhood .row h4 {
   font-size: 1.15em;
   margin: 1.15em 0;
 }
 
-.vision .row h3, .vision-historic .row h3, .vision-faq .row h3, .vision-portal .row h3, .vision-apply .row h3, .vision-gallery .row h3, .vision-home .row h3, .vision-amenities .row h3, .vision-history .row h3, .vision-floorplans .row h3, .vision-neighborhood .row h3, .vision .row h4, .vision-historic .row h4, .vision-faq .row h4, .vision-portal .row h4, .vision-apply .row h4, .vision-gallery .row h4, .vision-home .row h4, .vision-amenities .row h4, .vision-history .row h4, .vision-floorplans .row h4, .vision-neighborhood .row h4 {
+.vision .row h3, .vision-historic .row h3, .vision-faq .row h3, .vision-portal .row h3, .vision-contact .row h3, .vision-apply .row h3, .vision-gallery .row h3, .vision-home .row h3, .vision-amenities .row h3, .vision-history .row h3, .vision-floorplans .row h3, .vision-neighborhood .row h3, .vision .row h4, .vision-historic .row h4, .vision-faq .row h4, .vision-portal .row h4, .vision-contact .row h4, .vision-apply .row h4, .vision-gallery .row h4, .vision-home .row h4, .vision-amenities .row h4, .vision-history .row h4, .vision-floorplans .row h4, .vision-neighborhood .row h4 {
   color: #231f20;
   letter-spacing: 1.25px;
 }
 
-.vision .row p, .vision-historic .row p, .vision-faq .row p, .vision-portal .row p, .vision-apply .row p, .vision-gallery .row p, .vision-home .row p, .vision-amenities .row p, .vision-history .row p, .vision-floorplans .row p, .vision-neighborhood .row p {
+.vision .row p, .vision-historic .row p, .vision-faq .row p, .vision-portal .row p, .vision-contact .row p, .vision-apply .row p, .vision-gallery .row p, .vision-home .row p, .vision-amenities .row p, .vision-history .row p, .vision-floorplans .row p, .vision-neighborhood .row p {
   margin-bottom: 1.5em;
   color: #5d5b5e;
 }
@@ -1004,6 +1012,82 @@ a {
 
 .vision-portal .triangle-3 {
   background-image: url("/wp-content/uploads/2021/03/downtown_night.jpg");
+}
+
+.vision-contact .triangle-1 {
+  background-image: url("/wp-content/uploads/2021/04/Contactus-header.jpg");
+  background-position: center;
+  position: relative;
+  top: -4.5em;
+}
+
+.vision-contact .contact-page-form-container {
+  background: #c6c6bc;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 1.5em;
+}
+
+.vision-contact .contact-page-form-container h2 {
+  font-size: 1em;
+  font-weight: 700;
+}
+
+.vision-contact .contact-page-form-container .gfield_label {
+  display: none;
+}
+
+.vision-contact .contact-page-form-container ul, .vision-contact .contact-page-form-container li {
+  margin: 0;
+}
+
+.vision-contact .contact-page-form-container ul {
+  margin-top: 1em;
+  list-style-type: none;
+}
+
+.vision-contact .contact-page-form-container li {
+  margin: .5em 0;
+}
+
+.vision-contact .contact-page-form-container p {
+  text-align: center;
+  color: #303f52;
+}
+
+.vision-contact .contact-page-form-container input[type="submit"] {
+  background: #303f52;
+  padding: .35em 1.15em;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 1em;
+}
+
+.vision-contact .contact-page-form-container #gform_4 {
+  margin: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 .vision-apply .triangle-1 {
@@ -1341,16 +1425,16 @@ a {
   .vision-amenities .gallery-row .gallery-outer .gallery-item {
     width: 60vw;
   }
-  .vision, .vision-historic, .vision-faq, .vision-portal, .vision-apply, .vision-gallery, .vision-home, .vision-amenities, .vision-history, .vision-floorplans, .vision-neighborhood {
+  .vision, .vision-historic, .vision-faq, .vision-portal, .vision-contact, .vision-apply, .vision-gallery, .vision-home, .vision-amenities, .vision-history, .vision-floorplans, .vision-neighborhood {
     padding: 2em !important;
   }
-  .vision .row, .vision-historic .row, .vision-faq .row, .vision-portal .row, .vision-apply .row, .vision-gallery .row, .vision-home .row, .vision-amenities .row, .vision-history .row, .vision-floorplans .row, .vision-neighborhood .row {
+  .vision .row, .vision-historic .row, .vision-faq .row, .vision-portal .row, .vision-contact .row, .vision-apply .row, .vision-gallery .row, .vision-home .row, .vision-amenities .row, .vision-history .row, .vision-floorplans .row, .vision-neighborhood .row {
     -webkit-box-orient: vertical !important;
     -webkit-box-direction: normal !important;
         -ms-flex-direction: column !important;
             flex-direction: column !important;
   }
-  .vision .row .content, .vision-historic .row .content, .vision-faq .row .content, .vision-portal .row .content, .vision-apply .row .content, .vision-gallery .row .content, .vision-home .row .content, .vision-amenities .row .content, .vision-history .row .content, .vision-floorplans .row .content, .vision-neighborhood .row .content {
+  .vision .row .content, .vision-historic .row .content, .vision-faq .row .content, .vision-portal .row .content, .vision-contact .row .content, .vision-apply .row .content, .vision-gallery .row .content, .vision-home .row .content, .vision-amenities .row .content, .vision-history .row .content, .vision-floorplans .row .content, .vision-neighborhood .row .content {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -1365,19 +1449,19 @@ a {
         -ms-flex-direction: column !important;
             flex-direction: column !important;
   }
-  .vision .row .content .rl-list, .vision-historic .row .content .rl-list, .vision-faq .row .content .rl-list, .vision-portal .row .content .rl-list, .vision-apply .row .content .rl-list, .vision-gallery .row .content .rl-list, .vision-home .row .content .rl-list, .vision-amenities .row .content .rl-list, .vision-history .row .content .rl-list, .vision-floorplans .row .content .rl-list, .vision-neighborhood .row .content .rl-list {
+  .vision .row .content .rl-list, .vision-historic .row .content .rl-list, .vision-faq .row .content .rl-list, .vision-portal .row .content .rl-list, .vision-contact .row .content .rl-list, .vision-apply .row .content .rl-list, .vision-gallery .row .content .rl-list, .vision-home .row .content .rl-list, .vision-amenities .row .content .rl-list, .vision-history .row .content .rl-list, .vision-floorplans .row .content .rl-list, .vision-neighborhood .row .content .rl-list {
     -webkit-box-orient: vertical !important;
     -webkit-box-direction: normal !important;
         -ms-flex-direction: column !important;
             flex-direction: column !important;
   }
-  .vision .row .content ul, .vision-historic .row .content ul, .vision-faq .row .content ul, .vision-portal .row .content ul, .vision-apply .row .content ul, .vision-gallery .row .content ul, .vision-home .row .content ul, .vision-amenities .row .content ul, .vision-history .row .content ul, .vision-floorplans .row .content ul, .vision-neighborhood .row .content ul {
+  .vision .row .content ul, .vision-historic .row .content ul, .vision-faq .row .content ul, .vision-portal .row .content ul, .vision-contact .row .content ul, .vision-apply .row .content ul, .vision-gallery .row .content ul, .vision-home .row .content ul, .vision-amenities .row .content ul, .vision-history .row .content ul, .vision-floorplans .row .content ul, .vision-neighborhood .row .content ul {
     width: 100% !important;
   }
-  .vision .row .content h3, .vision-historic .row .content h3, .vision-faq .row .content h3, .vision-portal .row .content h3, .vision-apply .row .content h3, .vision-gallery .row .content h3, .vision-home .row .content h3, .vision-amenities .row .content h3, .vision-history .row .content h3, .vision-floorplans .row .content h3, .vision-neighborhood .row .content h3, .vision .row .content h4, .vision-historic .row .content h4, .vision-faq .row .content h4, .vision-portal .row .content h4, .vision-apply .row .content h4, .vision-gallery .row .content h4, .vision-home .row .content h4, .vision-amenities .row .content h4, .vision-history .row .content h4, .vision-floorplans .row .content h4, .vision-neighborhood .row .content h4, .vision .row .content p, .vision-historic .row .content p, .vision-faq .row .content p, .vision-portal .row .content p, .vision-apply .row .content p, .vision-gallery .row .content p, .vision-home .row .content p, .vision-amenities .row .content p, .vision-history .row .content p, .vision-floorplans .row .content p, .vision-neighborhood .row .content p {
+  .vision .row .content h3, .vision-historic .row .content h3, .vision-faq .row .content h3, .vision-portal .row .content h3, .vision-contact .row .content h3, .vision-apply .row .content h3, .vision-gallery .row .content h3, .vision-home .row .content h3, .vision-amenities .row .content h3, .vision-history .row .content h3, .vision-floorplans .row .content h3, .vision-neighborhood .row .content h3, .vision .row .content h4, .vision-historic .row .content h4, .vision-faq .row .content h4, .vision-portal .row .content h4, .vision-contact .row .content h4, .vision-apply .row .content h4, .vision-gallery .row .content h4, .vision-home .row .content h4, .vision-amenities .row .content h4, .vision-history .row .content h4, .vision-floorplans .row .content h4, .vision-neighborhood .row .content h4, .vision .row .content p, .vision-historic .row .content p, .vision-faq .row .content p, .vision-portal .row .content p, .vision-contact .row .content p, .vision-apply .row .content p, .vision-gallery .row .content p, .vision-home .row .content p, .vision-amenities .row .content p, .vision-history .row .content p, .vision-floorplans .row .content p, .vision-neighborhood .row .content p {
     text-align: center;
   }
-  .vision .row img, .vision-historic .row img, .vision-faq .row img, .vision-portal .row img, .vision-apply .row img, .vision-gallery .row img, .vision-home .row img, .vision-amenities .row img, .vision-history .row img, .vision-floorplans .row img, .vision-neighborhood .row img {
+  .vision .row img, .vision-historic .row img, .vision-faq .row img, .vision-portal .row img, .vision-contact .row img, .vision-apply .row img, .vision-gallery .row img, .vision-home .row img, .vision-amenities .row img, .vision-history .row img, .vision-floorplans .row img, .vision-neighborhood .row img {
     width: 100% !important;
     margin-bottom: 1em;
     margin-top: 1em;
@@ -2278,7 +2362,7 @@ html, body {
   background: #303f52;
 }
 
-.section, .top, .gallery-top, .history-top, .neighborhood-top, .home-top, .amenities-top, .floorplans-top, .apply-top, .portal-top, .faq-top, .slider, .slider-1, .slider-2, .slider-3, .slider-4, .history-slider-1, .history-slider-2, .history-slider-3, .neighborhood-slider-1, .neighborhood-slider-2, .neighborhood-slider-3, .floorplans-slider-1, .floorplans-slider-2, .apply-slider, .portal-slider, .schedule, .life, .map, .blog {
+.section, .top, .contact-top, .gallery-top, .history-top, .neighborhood-top, .home-top, .amenities-top, .floorplans-top, .apply-top, .portal-top, .faq-top, .slider, .slider-1, .slider-2, .slider-3, .slider-4, .history-slider-1, .history-slider-2, .history-slider-3, .neighborhood-slider-1, .neighborhood-slider-2, .neighborhood-slider-3, .floorplans-slider-1, .floorplans-slider-2, .apply-slider, .portal-slider, .schedule, .life, .map, .blog {
   padding: 4em 2em;
   overflow-x: hidden;
 }
@@ -2420,7 +2504,7 @@ footer ul li, .schedule ul li {
   .blog .row .content img {
     width: 100% !important;
   }
-  .section, .top, .gallery-top, .history-top, .neighborhood-top, .home-top, .amenities-top, .floorplans-top, .apply-top, .portal-top, .faq-top, .slider, .slider-1, .slider-2, .slider-3, .slider-4, .history-slider-1, .history-slider-2, .history-slider-3, .neighborhood-slider-1, .neighborhood-slider-2, .neighborhood-slider-3, .floorplans-slider-1, .floorplans-slider-2, .apply-slider, .portal-slider, .schedule, .life, .map, .blog {
+  .section, .top, .contact-top, .gallery-top, .history-top, .neighborhood-top, .home-top, .amenities-top, .floorplans-top, .apply-top, .portal-top, .faq-top, .slider, .slider-1, .slider-2, .slider-3, .slider-4, .history-slider-1, .history-slider-2, .history-slider-3, .neighborhood-slider-1, .neighborhood-slider-2, .neighborhood-slider-3, .floorplans-slider-1, .floorplans-slider-2, .apply-slider, .portal-slider, .schedule, .life, .map, .blog {
     padding: 2em 2em !important;
   }
 }
