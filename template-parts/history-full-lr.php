@@ -8,7 +8,6 @@
 			<h3><?php echo get_field('full_heading'); ?></h3>
 			<p><?php echo get_field('full_copy'); ?></p>
 			<p>Photo by <strong><?php echo get_field('full_caption'); ?></strong></p>
-			<a class="flin-btn-inverted">Learn More</a>
 		</div>
 	</div>
 	<div class="row">
