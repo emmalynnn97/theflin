@@ -84,7 +84,7 @@
 	<div class="row">
 		<div class="triangle triangle-1"></div>
 	</div>
-	<h4  style="text-align:center;">Studio Floorplans</h4>
+	<h4  style="text-align:center;">Studio Floor plans</h4>
 	<div class="floorplans-row row">
 		<img src="/wp-content/uploads/2021/04/iStock-1182454657.jpg" alt="floor image"/>
 		<div class="col">
@@ -94,7 +94,7 @@
 		</div>
 	</div>
 	<h4 style="text-align:center;">
-		One Bedroom Floorplans
+		One Bedroom Floor plans
 	</h4>
 	<div class="floorplans-row row">
 		<div class="col">
@@ -120,7 +120,7 @@
 		<img src="/wp-content/uploads/2021/04/iStock-1208206022.jpg" alt="floor image"/>
 	</div>
 	<h4 style="text-align:center;">
-		Two Bedroom Floorplans
+		Two Bedroom Floor plans
 	</h4>
 	<div class="floorplans-row row">
 		<img src="/wp-content/uploads/2021/04/iStock-88620892.jpg" alt="floor image"/>
@@ -143,7 +143,7 @@
 		</div>
 	</div>
 	<h4  style="text-align:center;">
-		Three Bedroom & Loft Floorplans
+		Three Bedroom & Loft Floor plans
 	</h4>
 	<div class="floorplans-row row">
 		<img src="/wp-content/uploads/2021/04/iStock-979339200.jpg" alt="floor image"/>
