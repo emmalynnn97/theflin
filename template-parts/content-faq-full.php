@@ -85,14 +85,14 @@ The Flin also partners up with The Placita Garage across the street that offer d
 				<p class="question">Q: Is there a charging station for electric cars?</p>	
 				<p class="question-toggle">+</p>
 			</div>
-		<p class="answer"><strong>A: </strong>Yes, The Flin will have 3 Blink charging station on-site.</p>
+		<p class="answer"><strong>A: </strong>Yes, The Flin will have 3 Blink charging stations.</p>
 	</div>
 	<div class="faq-question">
 			<div class="question-row">
 				<p class="question">Q: Is there elevator access in the building?</p>	
 				<p class="question-toggle">+</p>
 			</div>
-		<p class="answer"><strong>A: </strong>	Yes, there’s a few elevators throughout our community.
+		<p class="answer"><strong>A: </strong>	Yes, there’s 3 elevators throughout our community.
 </p>
 	</div>
 	<div class="faq-question">
@@ -115,7 +115,7 @@ The Flin also partners up with The Placita Garage across the street that offer d
 				<p class="question">Q: Personal Trash Pick-Up?</p>	
 				<p class="question-toggle">+</p>
 			</div>
-		<p class="answer"><strong>A: </strong>All our residents enjoy the included feature of having a personal trash pick-up option from their front door. Cost for service is included.</p>
+		<p class="answer"><strong>A: </strong>All our residents enjoy the included feature of having a personal trash pick-up from their front door. Cost for this service is included with the Utility Charge for the home.</p>
 	</div>
 </div>
 <script src="/wp-content/themes/theflin/js/faq.js" type="text/javascript"></script>
