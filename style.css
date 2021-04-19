@@ -639,6 +639,15 @@ a {
   .top a, .contact-top a, .gallery-top a, .history-top a, .neighborhood-top a, .home-top a, .amenities-top a, .floorplans-top a, .apply-top a, .portal-top a, .faq-top a {
     margin-bottom: 50%;
   }
+  .home-top a {
+    margin-bottom: 25% !important;
+  }
+  .home-top h2:nth-of-type(1) {
+    font-size: 1.5em !important;
+  }
+  .home-top h2:nth-of-type(2) {
+    font-size: 1em !important;
+  }
   .home-top {
     background-position: center !important;
     background-attachment: inherit !important;
