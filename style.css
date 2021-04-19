@@ -629,6 +629,9 @@ a {
 }
 
 @media (max-width: 800px) {
+  .contact-top, .sidebar {
+    display: none !important;
+  }
   .top, .contact-top, .gallery-top, .history-top, .neighborhood-top, .home-top, .amenities-top, .floorplans-top, .apply-top, .portal-top, .faq-top {
     min-height: 100vh !important;
     background-attachment: scroll;
@@ -1411,6 +1414,9 @@ a {
 }
 
 @media (max-width: 800px) {
+  .vision-contact .contact-page-form-container {
+    margin-top: 65px;
+  }
   .vision-faq {
     padding: 2em 2em !important;
   }

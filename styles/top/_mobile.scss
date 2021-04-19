@@ -1,4 +1,7 @@
 @media(max-width: $tablet-width){
+	.contact-top,.sidebar{
+		display:none !important;
+	}
 	.top{
 		min-height:$mobile-top-height !important;
 		background-attachment:scroll;

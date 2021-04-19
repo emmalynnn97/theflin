@@ -31,6 +31,7 @@
 		logo.style.width='auto';
 	}
 	const shrinkOn = 50;
-	document.addEventListener("scroll",()=>{
+	function handleScroll(){
 		getDistY() > shrinkOn ? shrinkNav(header, headerItems) : growNav(header, headerItems)
-	})
+	}
+	document.addEventListener("scroll",handleScroll)

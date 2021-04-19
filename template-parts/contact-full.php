@@ -15,3 +15,23 @@
 		<div class="triangle triangle-2"></div>
 	</div>
 </div>
+<script type="text/javascript">
+	window.addEventListener('resize',()=>{
+		if(window.innerWidth < 800){
+		document.removeEventListener('scroll', handleScroll);
+		shrinkNav(header, headerItems)
+	}
+	else{
+		growNav(header, headerItems)
+		document.addEventListener('scroll', handleScroll);
+	}
+	})
+	window.addEventListener('load',()=>{
+		if(window.innerWidth < 800){
+		document.removeEventListener('scroll', handleScroll);
+		shrinkNav(header, headerItems)
+	}
+	})
+	
+
+</script>
