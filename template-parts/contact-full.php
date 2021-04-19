@@ -15,7 +15,7 @@
 		<div class="triangle triangle-2"></div>
 	</div>
 </div>
-<script type="text/javascript">
+<!--<script type="text/javascript">
 	window.addEventListener('resize',()=>{
 		if(window.innerWidth < 800){
 		document.removeEventListener('scroll', handleScroll);
@@ -34,4 +34,4 @@
 	})
 	
 
-</script>
+</script>-->
