@@ -7,7 +7,7 @@
 @include hero($apply-top-bg, $top-height, apply-top);
 @include hero($portal-top-bg, $top-height, portal-top);
 @include hero($faq-top-bg, $top-height, faq-top);
-@include hero($contact-top-bg, $top-height, contact-top);
+@include hero($contact-top-bg, $top-height, contact-top, 50% 12%);
 .contact-top, .gallery-top, .history-top, .neighborhood-top,.home-top, .amenities-top, .floorplans-top, .apply-top, .portal-top, .faq-top{@extend .top;}
 .amenities-top{
 	h1{margin-bottom:.25em;}

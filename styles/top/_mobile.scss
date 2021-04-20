@@ -1,4 +1,7 @@
 @media(max-width: $tablet-width){
+	.contact-top{
+		background-image:url("http://flin2021prod.wpengine.com/wp-content/uploads/2021/04/Contact-pic_NEW-copy.jpg") !important;
+	}
 	.top{
 		min-height:$mobile-top-height !important;
 		background-attachment:scroll;
