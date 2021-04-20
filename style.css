@@ -542,11 +542,11 @@ a {
 }
 
 .contact-top {
-  background-image: url("http://flin2021prod.wpengine.com/wp-content/uploads/2021/04/Contact_Us_NEW_Desktop-scaled.jpg");
+  background-image: url("http://theflin2020.wpengine.com/wp-content/uploads/2021/04/Contact_Us_NEW_Desktop-scaled.jpg");
   min-height: 75vh;
   width: 100%;
   background-size: cover;
-  background-position: 50% 12%;
+  background-position: 50% 6%;
 }
 
 .amenities-top {
@@ -630,7 +630,7 @@ a {
 
 @media (max-width: 800px) {
   .contact-top {
-    background-image: url("http://flin2021prod.wpengine.com/wp-content/uploads/2021/04/Contact-pic_NEW-copy.jpg") !important;
+    background-image: url("http://theflin2020.wpengine.com/wp-content/uploads/2021/04/Contact-pic_NEW-copy.jpg") !important;
   }
   .top, .contact-top, .gallery-top, .history-top, .neighborhood-top, .home-top, .amenities-top, .floorplans-top, .apply-top, .portal-top, .faq-top {
     min-height: 100vh !important;
@@ -1027,8 +1027,8 @@ a {
 }
 
 .vision-contact .triangle-1 {
-  background-image: url("http://flin2021prod.wpengine.com/wp-content/uploads/2021/04/Contact_Us_NEW_Desktop-scaled.jpg");
-  background-position: center;
+  background-image: url("http://theflin2020.wpengine.com/wp-content/uploads/2021/04/Contact_Us_NEW_Desktop-scaled.jpg");
+  background-position: 50% 6%;
   position: relative;
   top: -4.5em;
 }
