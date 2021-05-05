@@ -74,3 +74,12 @@
 	}
 	}
 }
+@media(max-width:$mobile-width){
+	.amenities-image-row{
+		flex-direction: column;
+		img{
+			width:50% !important;
+			margin:.5em auto !important;
+		}
+	}
+}
