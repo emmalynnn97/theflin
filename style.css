@@ -2362,6 +2362,42 @@ html, body {
   min-height: 100%;
 }
 
+.covid-info {
+  position: fixed;
+  top: 30vh;
+  background: #303f52;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-decoration: none;
+  cursor: pointer;
+  z-index: 3;
+  height: 20vh;
+}
+
+.covid-info span {
+  -webkit-writing-mode: vertical-rl;
+      -ms-writing-mode: tb-rl;
+          writing-mode: vertical-rl;
+  text-orientation: sideways;
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  letter-spacing: 1.25px;
+  color: white;
+}
+
 .gfield_description.validation_message, .validation_error {
   color: white;
 }

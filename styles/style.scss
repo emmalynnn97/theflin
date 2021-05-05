@@ -60,6 +60,25 @@ body{
 html,body{
 	min-height:100%;
 }
+.covid-info{
+	position:fixed;
+	top:$sidebar-offset-top;
+	background:$flin-navy;
+	@include flex;
+	text-decoration: none;
+	cursor:pointer;
+	z-index:3;
+	span{
+		writing-mode: vertical-rl;
+		text-orientation: sideways;
+		transform:rotate(180deg);
+		text-transform:uppercase;
+		font-family:$sub-header-font;
+		letter-spacing:1.25px;
+		color:white;
+	}
+	height:20vh;
+}
 .gfield_description.validation_message,.validation_error{
 	color:white;
 }
