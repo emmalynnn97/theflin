@@ -19,6 +19,9 @@
 				color:$flin-gold !important;
 				font-weight:700;
 			}
+			a.retracted{
+				color:$flin-gold !important;
+			}
 		}
 		li.menu-item{
 			font-family:$sub-header-font;
@@ -33,7 +36,7 @@
 				}
 			}
 			a.retracted{
-				color:black !important;
+				color:black;
 			}
 		}
 		.current-menu-item{
