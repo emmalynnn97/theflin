@@ -32,7 +32,7 @@
 		<a rel="noopener noreferrer" target="_blank" href="https://www.sunlinkstreetcar.com/how-to-ride/maps" class="col">
 			<img src="/wp-content/uploads/2021/02/Light_rail_icon.png" alt='light rail image'/>
 			<h3>
-				Light Rail Stops
+				Sun Link Streetcar Stops
 			</h3>
 			
 		</a>
