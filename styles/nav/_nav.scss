@@ -14,12 +14,18 @@
 		color:$flin-gold !important;
 	}
 	.primary-menu{
+		.flin-apply-now-btn{
+			a{
+				color:$flin-gold !important;
+				font-weight:700;
+			}
+		}
 		li.menu-item{
 			font-family:$sub-header-font;
 			font-size:14px;
 			margin:auto .25em;
 			a{
-				color:white !important;
+				color:white;
 				text-decoration:none;
 				padding:1em;
 				&:hover{

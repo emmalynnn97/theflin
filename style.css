@@ -51,6 +51,11 @@ a {
   color: #c6a36b !important;
 }
 
+#site-header .primary-menu .flin-apply-now-btn a {
+  color: #c6a36b !important;
+  font-weight: 700;
+}
+
 #site-header .primary-menu li.menu-item {
   font-family: "Poppins", sans-serif;
   font-size: 14px;
@@ -58,7 +63,7 @@ a {
 }
 
 #site-header .primary-menu li.menu-item a {
-  color: white !important;
+  color: white;
   text-decoration: none;
   padding: 1em;
 }
