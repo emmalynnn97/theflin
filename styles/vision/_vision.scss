@@ -221,7 +221,16 @@
 .gallery-row::-webkit-scrollbar {
   display: none;
 }
-
+.amenities-image-row{
+	@include flex(space-evenly, center);
+	margin:1em auto;
+	img{
+		width:17.5%;
+		height:100px;
+		object-fit:contain;
+		margin:auto .25em;
+	}
+}
 /* Hide scrollbar for IE, Edge and Firefox */
 .gallery-row {
   -ms-overflow-style: none;  /* IE and Edge */
