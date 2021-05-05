@@ -1819,6 +1819,17 @@ footer .gform_footer.top_label input {
   height: 20px;
 }
 
+.schedule select {
+  background: transparent;
+  color: white;
+  padding: .25em;
+}
+
+.schedule #gform_confirmation_message_3 {
+  color: #c6a36b;
+  margin: .5em auto;
+}
+
 .schedule .gform_fields, .schedule form {
   display: -webkit-box;
   display: -ms-flexbox;

@@ -23,6 +23,15 @@
 		color:white;
 		height:20px;
 	}
+	select{
+		background:transparent;
+		color:white;
+		padding:.25em;
+	}
+	#gform_confirmation_message_3{
+		color:$flin-gold;
+		margin:.5em auto;
+	}
 	.gform_fields,form{
 		display:flex;
 		justify-content:center;
