@@ -10,6 +10,8 @@
 		<a href="https://www.facebook.com/The-Flin-112809383913900"><img class="facebook" src="/wp-content/uploads/2021/03/facebook-2.png" alt="facebook icon"/></a>
 		<a href="https://www.instagram.com/theflin_tucson/"><img class="instagram" src="/wp-content/uploads/2021/03/insta.png" alt="instagram icon"/></a>
 		<a href="https://twitter.com/TheFlin8"><img class="twitter" src="/wp-content/uploads/2021/03/Twitter.png" alt="twitter icon"/></a>
+		<a href="https://hslproperties.com/"><img src="/wp-content/uploads/2021/05/HSL_logo-01.png" alt="HSL Logo"/></a>
+		<a><img src="/wp-content/uploads/2021/05/Equal_housing-01.png" alt="EHO Logo"/></a>
 	</div> 
 	<div class="content-area">
 		<?php get_template_part('sidebar/content', 'sidebar-form') ?>
