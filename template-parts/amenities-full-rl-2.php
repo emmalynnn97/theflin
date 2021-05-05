@@ -14,6 +14,11 @@
 	<div class="row gallery-row">
 		<?php get_template_part('template-parts/amenities', 'gallery'); ?>
 	</div>
+	<div class="amenities-image-row">
+		<img alt="Amazon Hub Logo" src="/wp-content/uploads/2021/05/amazon-hub-horiz-logo-rgb-scaled.jpeg"/>
+		<img alt="Savaya Logo" src="/wp-content/uploads/2021/05/logo-3.png"/>
+		<img alt="Blink Logo" src="/wp-content/uploads/2021/05/Blink-logo.png"/>
+	</div>
 	<div class="row">
 		<div class="triangle triangle-5"></div>
 	</div>
