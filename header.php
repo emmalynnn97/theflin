@@ -115,7 +115,7 @@
 
 								}
 								?>
-								<li class="menu-item"><a style="color:#c6a36b !important;" href="tel:346-The-Flin" class="flin-phone-number">346-The-Flin</a></li>
+								<li class="menu-item"><a style="color:#c6a36b !important;font-size:15px;" href="tel:346-The-Flin" class="flin-phone-number">346-THE-FLIN</a></li>
 								</ul>
 
 							</nav><!-- .primary-menu-wrapper -->
