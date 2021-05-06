@@ -1,6 +1,6 @@
 <div class="sidebar hidden">
    <div class="toggle">
-	   <span>Live Here</span>
+	   <span>Connect With Us</span>
 	    <span class="close-btn">X</span>
 	</div>
 	<div class="icon-col">
