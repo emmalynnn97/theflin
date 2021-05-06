@@ -1668,6 +1668,7 @@ a {
   padding: 1em 0;
   background: #303f52;
   color: white;
+  text-align: center;
 }
 
 footer {
@@ -1849,6 +1850,9 @@ footer .gform_footer.top_label input {
 }
 
 @media (max-width: 500px) {
+  .flin-footer-insert {
+    font-size: .75em;
+  }
   footer .gform_wrapper {
     margin-top: 1em;
   }
