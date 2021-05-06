@@ -937,6 +937,21 @@ a {
   background-image: url("/wp-content/uploads/2021/01/background_blue.png");
 }
 
+.vision-faq .faq-covid h2 {
+  text-align: center;
+  font-size: 1.75em;
+}
+
+.vision-faq .faq-covid a {
+  color: #303f52;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.vision-faq .faq-covid a:hover {
+  color: #5d5b5e;
+}
+
 .vision-faq .faq-questions {
   width: 100%;
 }

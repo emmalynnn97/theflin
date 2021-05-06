@@ -56,6 +56,20 @@
 	}
 }
 .vision-faq{
+	.faq-covid{
+		h2{
+			text-align: center;
+			font-size:1.75em;
+		}
+		a{
+			color: $flin-navy;
+			font-weight:bold;
+			text-decoration: none;
+			&:hover{
+				color:$flin-gray;
+			}
+		}
+	}
 	.faq-questions{
 		width:100%;
 		.faq-question{

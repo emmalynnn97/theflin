@@ -1,4 +1,4 @@
-<a href="/faqs" class="covid-info">
+<a href="/faqs#covid" class="covid-info">
     <span>
         Covid-19   
     </span> 
