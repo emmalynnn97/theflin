@@ -27,7 +27,7 @@
 		<a href="https://www.instagram.com/theflin_tucson/"><img class="instagram" src="/wp-content/uploads/2021/03/insta.png" alt="instagram icon"/></a>
 		<a href="https://twitter.com/TheFlin8"><img class="twitter" src="/wp-content/uploads/2021/03/Twitter.png" alt="twitter icon"/></a>
 					</div>
-					<div class="col">
+					<!--<div class="col">
 							<a href="/">Home</a>
 							<a href="/neighborhood">Neighborhood</a>
 							<a href="/amenities">Amenities</a>
@@ -42,7 +42,7 @@
 							<a href="/history">History</a>
 					</div>
 					
-						<?php echo do_shortcode('[gravityform id="2" title="false" description="true"]'); ?>
+						<?php echo do_shortcode('[gravityform id="2" title="false" description="true"]'); ?>-->
 					
 				</div>
 				<div>
