@@ -1666,7 +1666,7 @@ a {
       -ms-flex-align: center;
           align-items: center;
   padding: 1em 0;
-  background: #303f52;
+  background: #877166;
   color: white;
   text-align: center;
 }
@@ -1690,10 +1690,10 @@ footer .flin-footer-img-container {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
+  -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+      -ms-flex-direction: row;
+          flex-direction: row;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
@@ -1837,11 +1837,18 @@ footer .gform_footer.top_label input {
         -ms-flex-direction: row !important;
             flex-direction: row !important;
   }
+  footer .icon-col img {
+    margin: 0 .75em;
+  }
   footer .flin-footer-links {
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
   }
   footer .flin-footer-img-container {
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: normal !important;
+        -ms-flex-direction: column !important;
+            flex-direction: column !important;
     margin-bottom: 2em;
   }
   footer .flin-footer-img-container img {

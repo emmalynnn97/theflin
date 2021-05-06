@@ -5,11 +5,15 @@
 		.icon-col{
 			width:100% !important;
 			flex-direction: row !important;
+			img{
+				margin:0 .75em;
+			}
 		}
 		.flin-footer-links{
 			flex-wrap:wrap;
 		}
 		.flin-footer-img-container{
+			flex-direction:column !important;
 			img{
 				margin:0 !important;
 			}
