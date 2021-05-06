@@ -1,3 +1,9 @@
+.flin-footer-insert{
+	@include flex;
+	padding:1em 0;
+	background:$flin-navy;
+	color:$flin-light-gray;
+}
 footer{
 	background:$flin-black !important;
 	padding-top:75px !important;

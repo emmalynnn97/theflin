@@ -12,6 +12,7 @@
  */
 
 ?>
+<div class="flin-footer-insert">© 2021 HSL Asset Management LLC. All Rights Reserved</div>
 			<footer id="site-footer" role="contentinfo" class="header-footer-group">
 			<div class="flin-footer-img-container">
 			<a class="flin-footer-logo" href="/"><img src="/wp-content/uploads/2021/01/logo_footer.png" alt="Flin footer logo"/></a>
