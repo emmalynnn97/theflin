@@ -21,7 +21,8 @@ const configureModal = (plan)=>{
     const currData = plan.path[0].dataset;
     document.querySelector('.floorplan-size').innerHTML = `${currData.size} Sq. Ft`;
     document.querySelector('.floorplan-title').innerHTML = currData.title;
-    document.querySelector('.floorplan-price').innerHTML = `<span>$</span>${currData.price}/mo`
+    document.querySelector('.floorplan-price').innerHTML = `<span>$</span>${currData.price}/mo`;
+    document.querySelector('.modal-content .floorplan img').src=currData.img;
 }
 
 // Iterate over the floorplans and add event listeners for configuring and opening the modal

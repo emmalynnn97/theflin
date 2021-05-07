@@ -88,7 +88,7 @@
 	<div class="floorplans-row row">
 		<img src="/wp-content/uploads/2021/04/iStock-1182454657.jpg" alt="floor image"/>
 		<div class="col">
-			<div data-img='' data-title='E1' data-size='517' data-price='999' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/022871_HSL_Flin_2D-Floorplans-5_4_21-1-scaled.jpg' data-title='E1' data-size='517' data-price='999' class="floorplan-selector">
 				E1
 			</div>
 		</div>

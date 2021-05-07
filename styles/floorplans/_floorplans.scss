@@ -10,16 +10,16 @@
 	width:100%;
 	background:white;
 	@include flex(column, flex-start, center);
-	padding:1.25em;
+	padding-bottom:1.25em;
 	margin:0 auto;
 	img{
-		height:200px;
-		margin:1em auto 2em auto;
+		height:350px;
+		margin:0 auto;
 	}
 	.floorplan-title-wrapper{
 		padding:1em;
 		position:relative;
-		top:-45px;
+		top:-20px;
 		width:75%;
 		text-align: center;
 		background-image:url($floorplan-title-wrapper-bg);

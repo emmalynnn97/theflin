@@ -720,19 +720,19 @@ a {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  padding: 1.25em;
+  padding-bottom: 1.25em;
   margin: 0 auto;
 }
 
 .floorplan img {
-  height: 200px;
-  margin: 1em auto 2em auto;
+  height: 350px;
+  margin: 0 auto;
 }
 
 .floorplan .floorplan-title-wrapper {
   padding: 1em;
   position: relative;
-  top: -45px;
+  top: -20px;
   width: 75%;
   text-align: center;
   background-image: url("/wp-content/uploads/2021/02/1_bedroom.png");
@@ -831,6 +831,9 @@ a {
   }
   .floorplan .modal-close {
     left: 90% !important;
+  }
+  .floorplan > img {
+    height: 200px;
   }
   .floorplan-selector {
     width: 100% !important;
