@@ -98,22 +98,22 @@
 	</h4>
 	<div class="floorplans-row row">
 		<div class="col">
-			<div data-price='1,165' data-title='A1' data-size='558' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/022871_HSL_Flin_2D-Floorplans-5_4_21-2-scaled.jpg' data-price='1,165' data-title='A1' data-size='558' class="floorplan-selector">
 				A1
 			</div>
-			<div data-price='1,195' data-title='A1.1' data-size='612' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/022871_HSL_Flin_2D-Floorplans-5_4_21-3-scaled.jpg' data-price='1,195' data-title='A1.1' data-size='612' class="floorplan-selector">
 				A1.1
 			</div>
-			<div data-price='1,250' data-title='A2' data-size='618' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/022871_HSL_Flin_2D-Floorplans-5_4_21-4-scaled.jpg' data-price='1,250' data-title='A2' data-size='618' class="floorplan-selector">
 				A2
 			</div>
-			<div data-price='1,250' data-title='A2.1' data-size='643' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/022871_HSL_Flin_2D-Floorplans-5_4_21-5-scaled.jpg' data-price='1,250' data-title='A2.1' data-size='643' class="floorplan-selector">
 				A2.1
 			</div>
-			<div data-price='1,325' data-title='A2.2' data-size='697' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/022871_HSL_Flin_2D-Floorplans-5_4_21-6-scaled.jpg' data-price='1,325' data-title='A2.2' data-size='697' class="floorplan-selector">
 				A2.2
 			</div>
-			<div data-price='1,280' data-title='A2.3' data-size='656' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/022871_HSL_Flin_2D-Floorplans-5_4_21-7-1-scaled.jpg' data-price='1,280' data-title='A2.3' data-size='656' class="floorplan-selector">
 				A2.3
 			</div>
 		</div>
@@ -125,19 +125,19 @@
 	<div class="floorplans-row row">
 		<img src="/wp-content/uploads/2021/04/iStock-88620892.jpg" alt="floor image"/>
 		<div class="col">
-			<div data-price='1,800' data-title='B1' data-size='1024' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/022871_HSL_Flin_2D-Floorplans-5_4_21-8-scaled.jpg' data-price='1,800' data-title='B1' data-size='1024' class="floorplan-selector">
 				B1
 			</div>
-			<div data-price='1,800' data-title='B2' data-size='1023' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/022871_HSL_Flin_2D-Floorplans-5_4_21-9-scaled.jpg' data-price='1,800' data-title='B2' data-size='1023' class="floorplan-selector">
 				B2
 			</div>
-			<div data-price='1,930' data-title='B2.1' data-size='1129'  class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/022871_HSL_Flin_2D-Floorplans-5_4_21-10-scaled.jpg' data-price='1,930' data-title='B2.1' data-size='1129'  class="floorplan-selector">
 				B2.1
 			</div>
-				<div data-price='2,050' data-title='B2.2' data-size='1266' class="floorplan-selector">
+				<div data-img='/wp-content/uploads/2021/05/022871_HSL_Flin_2D-Floorplans-5_4_21-11-1-scaled.jpg' data-price='2,050' data-title='B2.2' data-size='1266' class="floorplan-selector">
 				B2.2
 			</div>
-				<div data-price='1,920' data-title='B2.3' data-size='1109' class="floorplan-selector">
+				<div data-img='/wp-content/uploads/2021/05/022871_HSL_Flin_2D-Floorplans-5_4_21-12-1-scaled.jpg' data-price='1,920' data-title='B2.3' data-size='1109' class="floorplan-selector">
 				B2.3
 			</div>
 		</div>
@@ -148,16 +148,16 @@
 	<div class="floorplans-row row">
 		<img src="/wp-content/uploads/2021/04/iStock-979339200.jpg" alt="floor image"/>
 		<div class="col">
-			<div data-price='2,025' data-title='C1' data-size='1260' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/022871_HSL_Flin_2D-Floorplans-5_4_21-13-1-scaled.jpg' data-price='2,025' data-title='C1' data-size='1260' class="floorplan-selector">
 				C1
 			</div>
-			<div data-price='2,050' data-title='C2' data-size='1270' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/022871_HSL_Flin_2D-Floorplans-5_4_21-14-1-scaled.jpg' data-price='2,050' data-title='C2' data-size='1270' class="floorplan-selector">
 				C2
 			</div>
-			<div data-price='2,800' data-title='C3 Loft' data-size='1374' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/022871_HSL_Flin_2D-Floorplans-5_4_21-15-1-scaled.jpg' data-price='2,800' data-title='C3 Loft' data-size='1374' class="floorplan-selector">
 				C3 Loft
 			</div>
-			<div data-price='2,600' data-title='C4 Loft' data-size='1356' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/022871_HSL_Flin_2D-Floorplans-5_4_21-16-scaled.jpg' data-price='2,600' data-title='C4 Loft' data-size='1356' class="floorplan-selector">
 				C4 Loft
 			</div>
 		</div>
