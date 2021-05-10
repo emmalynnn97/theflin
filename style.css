@@ -1669,21 +1669,21 @@ a {
       -ms-flex-align: center;
           align-items: center;
   padding: 1em 0;
-  background: #877166;
+  background: #231f20;
   color: white;
   text-align: center;
 }
 
 footer {
-  background: #231f20 !important;
+  background: #c6c6bc !important;
   padding-top: 75px !important;
   padding-bottom: 75px !important;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: space-evenly;
-      -ms-flex-pack: space-evenly;
-          justify-content: space-evenly;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -1697,23 +1697,25 @@ footer .flin-footer-img-container {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
 }
 
+footer .flin-footer-img-container img {
+  width: 175px;
+}
+
 footer .flin-footer-img-container .flin-footer-logo {
   width: 175px;
-  margin-bottom: 1.5em;
 }
 
 footer .icon-col {
   width: calc(63px);
   height: 100%;
-  background: #231f20;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

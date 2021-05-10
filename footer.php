@@ -12,11 +12,12 @@
  */
 
 ?>
-<div class="flin-footer-insert">© 2021 HSL Asset Management LLC. All Rights Reserved</div>
+
 			<footer id="site-footer" role="contentinfo" class="header-footer-group">
 			<div class="flin-footer-img-container">
-			<a class="flin-footer-logo" href="/"><img src="/wp-content/uploads/2021/01/logo_footer.png" alt="Flin footer logo"/></a>
-				<a href="/"><img src="/wp-content/uploads/2021/04/logo-hslasset-eho.png" alt="equal housing opportunity logo"/></a>
+			<a class="flin-footer-logo" href="/"><img src="/wp-content/uploads/2021/05/Asset-1.png" alt="Flin footer logo"/></a>
+				<a href="/"><img src="/wp-content/uploads/2021/05/HSL_logo-01-1.png" alt="HSL logo"/></a>
+				<a href="/"><img src="/wp-content/uploads/2021/05/Equal_housing-01-1.png" alt="equal housing opportunity logo"/></a>
 			</div>	
 				<div class="flin-footer-links">
 					<div class="col icon-col">
@@ -88,7 +89,7 @@
 				</div><!-- .section-inner -->
 
 			</footer><!-- #site-footer -->
-
+			<div class="flin-footer-insert">© 2021 HSL Asset Management LLC. All Rights Reserved</div>
 		<?php wp_footer(); ?>
 
 <script src="/wp-content/themes/theflin/js/slideable.js" type="text/javascript"></script>

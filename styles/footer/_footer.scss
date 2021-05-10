@@ -1,29 +1,30 @@
 .flin-footer-insert{
 	@include flex;
 	padding:1em 0;
-	background:$flin-brown;
+	background:$flin-black;
 	color:white;
 	text-align: center;
 }
 footer{
-	background:$flin-black !important;
+	background:$flin-light-gray !important;
 	padding-top:75px !important;
 	padding-bottom:75px !important;
 	display:flex;
-	justify-content:space-evenly;
+	justify-content:center;
 	align-items:center;
 	.flin-footer-img-container{
-		@include flex(row, center, center);
+		@include flex(row, space-evenly, center);
+		img{
+			width:175px;
+		}
 		.flin-footer-logo{
 			width:175px;
-			margin-bottom:1.5em;
 		}
 		
 	}
 	.icon-col{
 		width:$icon-width;
 		height:100%;
-		background:$flin-black;
 		@include flex(column, space-evenly, center);
 		align-items:center !important;
 		transition:$transition;
