@@ -17,6 +17,10 @@ get_header();
 <?php get_template_part('template-parts/amenities', 'slider-1'); ?>
 <?php get_template_part('template-parts/amenities', 'full-rl-2'); ?>
 <?php get_template_part('template-parts/amenities', 'slider-2'); ?>
+<?php get_template_part('template-parts/neighborhood', 'full-rl'); ?>
+<?php get_template_part('template-parts/neighborhood', 'slider-2'); ?>
+<?php get_template_part('template-parts/neighborhood', 'full-vertical'); ?>
+<?php get_template_part('template-parts/neighborhood', 'slider-3'); ?>
 <?php get_template_part('template-parts/amenities', 'view-homes'); ?>
 <?php get_template_part('template-parts/home', 'schedule'); ?>
 
