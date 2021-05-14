@@ -17,7 +17,7 @@
 			<div class="flin-footer-img-container">
 			<a class="flin-footer-logo" href="/"><img src="/wp-content/uploads/2021/05/Asset-1.png" alt="Flin footer logo"/></a>
 				<a href="/"><img src="/wp-content/uploads/2021/05/HSL_logo-01-1.png" alt="HSL logo"/></a>
-				<a href="/"><img src="/wp-content/uploads/2021/05/Equal_housing-01-1.png" alt="equal housing opportunity logo"/></a>
+				<a href="/"><img style="width:150px;" src="/wp-content/uploads/2021/05/Equal_housing-01-1.png" alt="equal housing opportunity logo"/></a>
 			</div>	
 				<div class="flin-footer-links">
 					<div class="col icon-col">
