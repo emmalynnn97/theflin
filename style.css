@@ -726,7 +726,7 @@ a {
 }
 
 .floorplan img {
-  height: 350px;
+  height: 450px;
   margin: 0 auto;
 }
 
@@ -834,7 +834,7 @@ a {
     left: 90% !important;
   }
   .floorplan > img {
-    height: 200px;
+    height: 350px;
   }
   .floorplan-selector {
     width: 100% !important;

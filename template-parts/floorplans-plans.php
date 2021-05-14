@@ -185,17 +185,6 @@
 				</strong>
 				<p class="floorplan-size"></p>
 			</div>
-			<div class="floorplan-features">
-				<p>
-					Features:
-				</p>
-				<ul>
-					<li>Washer/Dryer</li>
-					<li>Laundry Room</li>
-					<li>Walk-in Closet</li>
-					<li>Storage</li>
-				</ul>
-			</div>
 			<a class="floorplan-btn">Download</a>
 			<a class="floorplan-btn-gold">Check Availability</a>
 		</div>
