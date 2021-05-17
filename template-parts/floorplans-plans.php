@@ -86,7 +86,7 @@
 	</div>
 	<h4  style="text-align:center;">Studio Floor plans</h4>
 	<div class="floorplans-row row">
-		<img src="/wp-content/uploads/2021/04/iStock-1182454657.jpg" alt="floor image"/>
+	<img src=<?php echo the_field('studio_image'); ?> alt="floor image"/>
 		<div class="col">
 			<div data-img='/wp-content/uploads/2021/05/E1-scaled.jpg' data-title='E1' data-size='517' data-price='999' class="floorplan-selector">
 				E1
@@ -117,13 +117,13 @@
 				A2.3
 			</div>
 		</div>
-		<img src="/wp-content/uploads/2021/04/iStock-1208206022.jpg" alt="floor image"/>
+		<img src=<?php echo the_field('one_bedroom_image'); ?> alt="floor image"/>
 	</div>
 	<h4 style="text-align:center;">
 		Two Bedroom Floor plans
 	</h4>
 	<div class="floorplans-row row">
-		<img src="/wp-content/uploads/2021/04/iStock-88620892.jpg" alt="floor image"/>
+	<img src=<?php echo the_field('two_bedroom_image'); ?> alt="floor image"/>
 		<div class="col">
 			<div data-img='/wp-content/uploads/2021/05/B1-scaled.jpg' data-price='1,800' data-title='B1' data-size='1024' class="floorplan-selector">
 				B1
@@ -146,7 +146,7 @@
 		Three Bedroom & Loft Floor plans
 	</h4>
 	<div class="floorplans-row row">
-		<img src="/wp-content/uploads/2021/04/iStock-979339200.jpg" alt="floor image"/>
+	<img src=<?php echo the_field('three_bedroom_image'); ?> alt="floor image"/>
 		<div class="col">
 			<div data-img='/wp-content/uploads/2021/05/C1-scaled.jpg' data-price='2,025' data-title='C1' data-size='1260' class="floorplan-selector">
 				C1
