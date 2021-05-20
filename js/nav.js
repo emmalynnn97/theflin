@@ -5,13 +5,11 @@
 	const hamburger = document.querySelector('.mobile-nav-toggle > img');
 	var prevHeight;
 	var prevWidth;
-	const prevBG = header.style.background;
 	function getDistY(){
 		return document.documentElement.scrollTop || window.pageYOffset;
 	}
 	function shrinkNav(header, headerItems){
 		header.style.background='white';
-		header.style.backgroundColor='white';
 		headerItems.forEach(item=>item.classList.add('retracted'));
 		innerNav.style.height='50px';
 		logo.src="/wp-content/uploads/2021/01/Asset-2.png";
@@ -23,8 +21,7 @@
 		logo.style.width='100px';
 	}
 	function growNav(header, headerItems){
-		header.style.background=prevBG;
-		header.style.backgroundColor='transparent';
+		header.style.background='transparent';
 		headerItems.forEach(item=>item.classList.remove('retracted'));
 		innerNav.style.height='146px';
 		logo.src='/wp-content/uploads/2021/01/logo.png'
