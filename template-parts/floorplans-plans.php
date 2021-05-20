@@ -88,7 +88,7 @@
 	<div class="floorplans-row row">
 	<img src=<?php echo the_field('studio_image'); ?> alt="floor image"/>
 		<div class="col">
-			<div data-img='/wp-content/uploads/2021/05/E1-scaled.jpg' data-title='E1' data-size='517' data-price='999' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/E1-scaled.jpg' data-title='E1' data-size='517' data-price='1,175' class="floorplan-selector">
 				E1
 			</div>
 		</div>
@@ -98,22 +98,22 @@
 	</h4>
 	<div class="floorplans-row row">
 		<div class="col">
-			<div data-img='/wp-content/uploads/2021/05/A1-scaled.jpg' data-price='1,165' data-title='A1' data-size='558' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/A1-scaled.jpg' data-price='1,400' data-title='A1' data-size='558' class="floorplan-selector">
 				A1
 			</div>
-			<div data-img='/wp-content/uploads/2021/05/A1.1-scaled.jpg' data-price='1,195' data-title='A1.1' data-size='612' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/A1.1-scaled.jpg' data-price='1,400' data-title='A1.1' data-size='612' class="floorplan-selector">
 				A1.1
 			</div>
-			<div data-img='/wp-content/uploads/2021/05/A2-scaled.jpg' data-price='1,250' data-title='A2' data-size='618' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/A2-scaled.jpg' data-price='1,500' data-title='A2' data-size='618' class="floorplan-selector">
 				A2
 			</div>
-			<div data-img='/wp-content/uploads/2021/05/A2.1-scaled.jpg' data-price='1,250' data-title='A2.1' data-size='643' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/A2.1-scaled.jpg' data-price='1,500' data-title='A2.1' data-size='643' class="floorplan-selector">
 				A2.1
 			</div>
-			<div data-img='/wp-content/uploads/2021/05/A2.2-scaled.jpg' data-price='1,325' data-title='A2.2' data-size='697' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/A2.2-scaled.jpg' data-price='1,500' data-title='A2.2' data-size='697' class="floorplan-selector">
 				A2.2
 			</div>
-			<div data-img='/wp-content/uploads/2021/05/A2.3-scaled.jpg' data-price='1,280' data-title='A2.3' data-size='656' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/A2.3-scaled.jpg' data-price='1,500' data-title='A2.3' data-size='656' class="floorplan-selector">
 				A2.3
 			</div>
 		</div>
@@ -125,19 +125,19 @@
 	<div class="floorplans-row row">
 	<img src=<?php echo the_field('two_bedroom_image'); ?> alt="floor image"/>
 		<div class="col">
-			<div data-img='/wp-content/uploads/2021/05/B1-scaled.jpg' data-price='1,800' data-title='B1' data-size='1024' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/B1-scaled.jpg' data-price='2,100' data-title='B1' data-size='1024' class="floorplan-selector">
 				B1
 			</div>
-			<div data-img='/wp-content/uploads/2021/05/B2-scaled.jpg' data-price='1,800' data-title='B2' data-size='1023' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/B2-scaled.jpg' data-price='2,200' data-title='B2' data-size='1023' class="floorplan-selector">
 				B2
 			</div>
-			<div data-img='/wp-content/uploads/2021/05/B2.1-scaled.jpg' data-price='1,930' data-title='B2.1' data-size='1129'  class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/B2.1-scaled.jpg' data-price='2,200' data-title='B2.1' data-size='1129'  class="floorplan-selector">
 				B2.1
 			</div>
-				<div data-img='/wp-content/uploads/2021/05/B2.2-scaled.jpg' data-price='2,050' data-title='B2.2' data-size='1266' class="floorplan-selector">
+				<div data-img='/wp-content/uploads/2021/05/B2.2-scaled.jpg' data-price='2,255' data-title='B2.2' data-size='1266' class="floorplan-selector">
 				B2.2
 			</div>
-				<div data-img='/wp-content/uploads/2021/05/B2.3-scaled.jpg' data-price='1,920' data-title='B2.3' data-size='1109' class="floorplan-selector">
+				<div data-img='/wp-content/uploads/2021/05/B2.3-scaled.jpg' data-price='2,255' data-title='B2.3' data-size='1109' class="floorplan-selector">
 				B2.3
 			</div>
 		</div>
@@ -148,16 +148,16 @@
 	<div class="floorplans-row row">
 	<img src=<?php echo the_field('three_bedroom_image'); ?> alt="floor image"/>
 		<div class="col">
-			<div data-img='/wp-content/uploads/2021/05/C1-scaled.jpg' data-price='2,025' data-title='C1' data-size='1260' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/C1-scaled.jpg' data-price='2,375' data-title='C1' data-size='1260' class="floorplan-selector">
 				C1
 			</div>
-			<div data-img='/wp-content/uploads/2021/05/C2-scaled.jpg' data-price='2,050' data-title='C2' data-size='1270' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/C2-scaled.jpg' data-price='2,500' data-title='C2' data-size='1270' class="floorplan-selector">
 				C2
 			</div>
-			<div data-img='/wp-content/uploads/2021/05/C3-scaled.jpg' data-price='2,800' data-title='C3 Loft' data-size='1374' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/C3-scaled.jpg' data-price='3,025' data-title='C3 Loft' data-size='1374' class="floorplan-selector">
 				C3 Loft
 			</div>
-			<div data-img='/wp-content/uploads/2021/05/C4-scaled.jpg' data-price='2,600' data-title='C4 Loft' data-size='1356' class="floorplan-selector">
+			<div data-img='/wp-content/uploads/2021/05/C4-scaled.jpg' data-price='3,025' data-title='C4 Loft' data-size='1356' class="floorplan-selector">
 				C4 Loft
 			</div>
 		</div>
