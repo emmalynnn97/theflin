@@ -7,6 +7,14 @@
 	right:$sidebar-offset-right;
 	top:$sidebar-offset-top;
 	transition:$transition;
+	.gform_description{
+		text-align: center;
+		@include flex;
+		color:white;
+	}
+	.gform_title{
+		display: none;
+	}
 	@include flex;
 	z-index:2;
 	.toggle{
