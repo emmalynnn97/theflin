@@ -1,5 +1,8 @@
 <div class="contact-top">
-		<h1>
+<div class="contact-top-overlay">
+<h1>
 			Contact Us
 		</h1>
+</div>		
+
 </div>
