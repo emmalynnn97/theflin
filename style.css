@@ -31,7 +31,7 @@ a {
 
 #site-header {
   background-attachment: fixed;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.25);
   position: fixed;
   width: 100%;
   -webkit-transition: 0.25s ease;
@@ -606,7 +606,7 @@ a {
           align-items: center;
   width: 100%;
   height: 75vh;
-  background: rgba(0, 0, 0, 0.55);
+  background: rgba(0, 0, 0, 0.4);
 }
 
 .apply-top h1, .portal-top h1 {
@@ -617,9 +617,59 @@ a {
   margin-bottom: .25em !important;
 }
 
+.floorplans-top {
+  padding: 0 !important;
+}
+
 .floorplans-top h1, .floorplans-top a {
   position: relative;
   top: -35px;
+}
+
+.floorplans-top .floorplans-top-overlay {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 100%;
+  height: 75vh;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.home-top {
+  padding: 0 !important;
+}
+
+.home-top .triangle-1 {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.home-top .home-hero-overlay {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background: rgba(0, 0, 0, 0.1);
+  width: 100%;
+  height: 75vh;
 }
 
 .top, .contact-top, .gallery-top, .history-top, .neighborhood-top, .home-top, .amenities-top, .floorplans-top, .apply-top, .portal-top, .faq-top {

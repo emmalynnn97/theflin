@@ -21,7 +21,7 @@
 		logo.style.width='100px';
 	}
 	function growNav(header, headerItems){
-		header.style.background='rgba(0,0,0,.5)';
+		header.style.background='rgba(0,0,0,.25)';
 		headerItems.forEach(item=>item.classList.remove('retracted'));
 		innerNav.style.height='146px';
 		logo.src='/wp-content/uploads/2021/01/logo.png'

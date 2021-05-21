@@ -16,7 +16,7 @@
 		@include flex(column, center, center);
 		width:100%;
 		height:$top-height;
-		background:rgba(0,0,0,.55);
+		background:rgba(0,0,0,.4);
 	}
 }
 .apply-top, .portal-top{
@@ -28,12 +28,30 @@
 	}
 }
 .floorplans-top{
+	padding:0 !important;
 	h1,a{
 		position:relative;
 		top:-35px;
 	}
+	.floorplans-top-overlay{
+		@include flex(column, center, center);
+		width:100%;
+		height:$top-height;
+		background:rgba(0,0,0,.1);
+	}
 }
-
+.home-top{
+	padding:0 !important;
+	.triangle-1{
+		background:rgba(0,0,0,.1);
+	}
+	.home-hero-overlay{
+		@include flex(column, center, center);
+		background:rgba(0,0,0,.1);
+		width:100%;
+		height:$top-height;
+	}
+}
 .top{
 	@extend .section;
 	min-height:$top-height;
