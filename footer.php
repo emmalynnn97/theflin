@@ -94,4 +94,7 @@
 
 <script src="/wp-content/themes/theflin/js/slideable.js" type="text/javascript"></script>
 	</body>
+	<script type="text/javascript">
+		document.querySelector('.skip-link').remove();
+	</script>
 </html>
