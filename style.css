@@ -2259,7 +2259,6 @@ footer .gform_footer.top_label input {
   -ms-grid-column: 1;
   -ms-grid-column-span: 4;
   grid-column: 1/5;
-  grid-row: 5/-1;
 }
 
 .masonry-gallery-outer .item-1 {
@@ -2395,6 +2394,30 @@ footer .gform_footer.top_label input {
   -ms-grid-row: 6;
   -ms-grid-row-span: 2;
   grid-row: 6/8;
+}
+
+.masonry-gallery-outer .item-16.active, .masonry-gallery-outer .item-20.active, .masonry-gallery-outer .item-24.active, .masonry-gallery-outer .item-28.active {
+  -ms-grid-column: 1;
+  -ms-grid-column-span: 4;
+  grid-column: 1/5;
+}
+
+.masonry-gallery-outer .item-17.active, .masonry-gallery-outer .item-21.active, .masonry-gallery-outer .item-25.active, .masonry-gallery-outer .item-29.active {
+  -ms-grid-column: 2;
+  -ms-grid-column-span: 3;
+  grid-column: 2/5;
+}
+
+.masonry-gallery-outer .item-18.active, .masonry-gallery-outer .item-22.active, .masonry-gallery-outer .item-26.active, .masonry-gallery-outer .item-30.active {
+  -ms-grid-column: 3;
+  -ms-grid-column-span: 2;
+  grid-column: 3/5;
+}
+
+.masonry-gallery-outer .item-19.active, .masonry-gallery-outer .item-23.active, .masonry-gallery-outer .item-27.active, .masonry-gallery-outer .item-31.active {
+  -ms-grid-column: 1;
+  -ms-grid-column-span: 4;
+  grid-column: 1/5;
 }
 
 .slideable {
