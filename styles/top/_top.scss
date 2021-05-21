@@ -18,6 +18,14 @@
 		background:rgba(0,0,0,.4);
 	}
 }
+.history-top{
+	.history-top-overlay{
+		@include flex(column, center, center);
+		width:100%;
+		height:$top-height;
+		background:rgba(0,0,0,.1);
+	}
+}
 .gallery-top{
 	.gallery-top-overlay{
 		@include flex(column, center, center);
