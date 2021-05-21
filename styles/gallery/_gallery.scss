@@ -17,6 +17,7 @@
 	.item.active img{filter:brightness(100%);}
 	.item.active{
 		z-index:1;
+		grid-column:1 / 5;
 	}
 	.item-1.active,.item-2.active,.item-3.active,.item-4.active,.item-5.active, .item-6.active{
 		grid-column:1/5;

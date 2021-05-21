@@ -2229,6 +2229,9 @@ footer .gform_footer.top_label input {
 
 .masonry-gallery-outer .item.active {
   z-index: 1;
+  -ms-grid-column: 1;
+  -ms-grid-column-span: 4;
+  grid-column: 1 / 5;
 }
 
 .masonry-gallery-outer .item-1.active, .masonry-gallery-outer .item-2.active, .masonry-gallery-outer .item-3.active, .masonry-gallery-outer .item-4.active, .masonry-gallery-outer .item-5.active, .masonry-gallery-outer .item-6.active {
