@@ -49,7 +49,7 @@ a {
 }
 
 #site-header .flin-phone-number {
-  color: #c6a36b !important;
+  color: #c6a36b;
   font-weight: 700;
 }
 
@@ -205,7 +205,7 @@ a {
 }
 
 .sidebar {
-  background: rgba(35, 31, 32, 0.5);
+  background: rgba(35, 31, 32, 0.7);
   width: 350px;
   height: 300px;
   -webkit-backdrop-filter: blur(4px);
@@ -2617,6 +2617,10 @@ html, body {
   color: white;
 }
 
+.gform_description {
+  font-weight: 700;
+}
+
 .color-swatches {
   width: 100%;
 }
@@ -2801,6 +2805,30 @@ footer ul li, .schedule ul li {
   .vision-amenities .triangle-1, .life .triangle-1 {
     background-position: center !important;
   }
+}
+
+.schedule {
+  padding: 0;
+  height: 35vh;
+}
+
+.schedule .schedule-overlay {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background: rgba(0, 0, 0, 0.1);
+  width: 100%;
+  height: 100%;
 }
 
 @media (max-width: 800px) {

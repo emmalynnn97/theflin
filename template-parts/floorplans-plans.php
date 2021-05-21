@@ -172,7 +172,7 @@
 		<div class="floorplan">
 		<span class="modal-close">&times;</span>	
 		<div class="floorplan-title-wrapper">
-				<h3 class="floorplan-title"></h3>
+				<h3 class="floorplan-title">Default</h3>
 			</div>
 			<img src="/wp-content/uploads/2021/02/FPO_Floorplan.png" alt="floorplan image"/>
 			<a class="floorplan-btn">View</a>

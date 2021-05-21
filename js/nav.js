@@ -3,6 +3,7 @@
 	const innerNav = document.querySelector('.header-inner');
 	const logo = document.querySelector('.custom-logo');
 	const hamburger = document.querySelector('.mobile-nav-toggle > img');
+	const phoneNumber = document.querySelector('.flin-phone-number');
 	var prevHeight;
 	var prevWidth;
 	function getDistY(){
@@ -19,6 +20,7 @@
 		prevHeight = logo.height;
 		logo.height='';
 		logo.style.width='100px';
+		phoneNumber.style.color='#303f52';
 	}
 	function growNav(header, headerItems){
 		header.style.background='rgba(0,0,0,.25)';
@@ -29,6 +31,7 @@
 		logo.width=prevWidth;
 		logo.height=prevHeight;
 		logo.style.width='auto';
+		phoneNumber.style.color='#c6a36b';
 	}
 	const shrinkOn = 50;
 	function handleScroll(){
