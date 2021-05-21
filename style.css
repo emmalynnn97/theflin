@@ -26,15 +26,14 @@ p, ul, li {
 }
 
 a {
-  font-family: "Poppins", sans-serif;
+  font-family: "Reem Kufi", sans-serif;
 }
 
 #site-header {
   background-attachment: fixed;
-  background-color: black;
+  background: rgba(0, 0, 0, 0.5);
   position: fixed;
   width: 100%;
-  background-color: transparent;
   -webkit-transition: 0.25s ease;
   transition: 0.25s ease;
   z-index: 3 !important;
