@@ -1,5 +1,8 @@
 <div class="faq-top">
-		<h1 style="text-transform:unset !important;">
+	<div class="faq-top-overlay">
+	<h1 style="text-transform:unset !important;">
 			FAQ’s
 		</h1>
+	</div>
+	
 </div>

@@ -50,6 +50,14 @@
 		background:rgba(0,0,0,.1);
 	}
 }
+.faq-top{
+	.faq-top-overlay{
+		@include flex(column, center, center);
+		width:100%;
+		height:$top-height;
+		background:rgba(0,0,0,.1);
+	}
+}
 .floorplans-top{
 	h1,a{
 		position:relative;
