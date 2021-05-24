@@ -1,4 +1,4 @@
-<div class="faq-covid">
+<!--<div class="faq-covid">
     <h2>OUR COVID-19 PROTOCOLS</h2>
     <ul>
         <li>
@@ -29,4 +29,4 @@
             <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention-H.pdf">Protect Yourself and Others</a></li>
         </ul>
     </ul>
-</div>
+</div>-->

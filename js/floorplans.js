@@ -18,7 +18,7 @@ const openModal = () => {
 
 //A method to configure the modal data based on the selected floor plan
 const configureModal = (plan)=>{
-    const currData = plan.path[0].dataset;
+    const currData = plan.target.dataset;
     document.querySelector('.floorplan-size').innerHTML = `${currData.size} Sq. Ft`;
     document.querySelector('.floorplan-title').innerHTML = currData.title;
     document.querySelector('.floorplan-price').innerHTML = `<span>$</span>${currData.price}/mo`;
