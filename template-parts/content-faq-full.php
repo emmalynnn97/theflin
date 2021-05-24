@@ -92,7 +92,7 @@ The Flin also partners up with The Placita Garage across the street that offer d
 				<p class="question">Q: Is there elevator access in the building?</p>	
 				<p class="question-toggle">+</p>
 			</div>
-		<p class="answer"><strong>A: </strong>	Yes, there’s 3 elevators throughout our community.
+		<p class="answer"><strong>A: </strong>	Yes, there are 3 elevators throughout our community.
 </p>
 	</div>
 	<div class="faq-question">
