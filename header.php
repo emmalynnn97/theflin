@@ -22,7 +22,16 @@
   gtag('js', new Date());
 
   gtag('config', 'G-E85F1L55H6');
-</script>﻿
+</script>
+<script type="text/javascript">
+window.__lo_site_id = 304521;
+
+	(function() {
+		var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+		wa.src = 'https://d10lpsik1i8c69.cloudfront.net/w.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+	  })();
+	</script>﻿
 		<meta charset="<?php bloginfo( 'charset' ); ?>">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" >
 		<link rel="preconnect" href="https://fonts.gstatic.com">
