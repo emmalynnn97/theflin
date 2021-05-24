@@ -31,7 +31,7 @@ window.__lo_site_id = 304521;
 		wa.src = 'https://d10lpsik1i8c69.cloudfront.net/w.js';
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
 	  })();
-	</script>﻿
+	</script>
 		<meta charset="<?php bloginfo( 'charset' ); ?>">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" >
 		<link rel="preconnect" href="https://fonts.gstatic.com">
