@@ -20,7 +20,7 @@
 		<a rel="noopener noreferrer" target="_blank" href="https://www.google.com/maps/search/hospitals+in+Tucson,+AZ+85701/@32.2187511,-110.9745078,15z" class="col">
 			<img src="/wp-content/uploads/2021/02/hosptial_icon.png" alt='Hospital image'/>
 			<h3>
-				Hospital
+				Hospitals
 			</h3>
 		</a>
 		<a rel="noopener noreferrer" target="_blank" href="https://www.sunlinkstreetcar.com/how-to-ride/maps" class="col">
