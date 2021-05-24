@@ -7,7 +7,7 @@
 		<div class="content slideable slideable-right">
 			<h3><?php echo get_field('full_heading'); ?></h3>
 			<p><?php echo get_field('full_copy'); ?></p>
-			<p>Photo by <strong><?php echo get_field('full_caption'); ?></strong></p>
+			<p>Photo by <i><strong>Arizona Daily Star</strong></i>
 		</div>
 	</div>
 	<div class="row">
