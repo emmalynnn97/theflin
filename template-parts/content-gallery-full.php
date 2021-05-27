@@ -32,17 +32,11 @@
 	<div class="item item-11">
 		<img src="/wp-content/uploads/2021/05/Flin-41.jpg" alt="11"/>
 	</div>
-	<div class="item item-12">
-		<img src="/wp-content/uploads/2021/05/Flin-46.jpg" alt="12"/>
-	</div>
 	<div class="item item-13">
 		<img src="/wp-content/uploads/2021/05/Flin-47.jpg" alt="13"/>
 	</div>
 	<div class="item item-14">
 		<img src="/wp-content/uploads/2021/05/Flin-50.jpg" alt="14"/>
-	</div>
-	<div class="item item-15">
-		<img src="/wp-content/uploads/2021/05/Flin-51.jpg" alt="15"/>
 	</div>
 	<div class="item item-16">
 		<img src="/wp-content/uploads/2021/05/Flin-52.jpg" alt="16"/>
